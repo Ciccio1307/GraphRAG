@@ -1,0 +1,2729 @@
+src:START_ID	dst:END_ID	type:TYPE	verb
+0	1	REL	`reduced`
+2	0	REL	`was revealed`
+3	0	REL	`was revealed`
+4	0	REL	`was revealed`
+5	0	REL	`was revealed`
+1	0	REL	`was revealed`
+6	0	REL	`was revealed`
+7	0	REL	`was revealed`
+8	0	REL	`was revealed`
+9	0	REL	`was revealed`
+10	0	REL	`was revealed`
+11	0	REL	`was revealed`
+12	0	REL	`was revealed`
+1	13	REL	`was downregulated`
+1	14	REL	`was downregulated`
+1	0	REL	`was downregulated`
+15	16	REL	`regulated`
+17	16	REL	`regulated`
+1	16	REL	`regulated`
+15	18	REL	`regulated; increasing`
+17	18	REL	`regulated; increasing`
+1	18	REL	`regulated; increasing`
+1	1	REL	`was found to enhance`
+1	19	REL	`was found to enhance`
+1	20	REL	`was found to enhance`
+20	1	REL	`interacted`
+20	21	REL	`interacted`
+20	22	REL	`interacted`
+20	23	REL	`interacted`
+24	25	REL	`was caused`
+26	25	REL	`was caused`
+1	27	REL	`reduced`
+26	1	REL	`can affect`
+14	1	REL	`regulate`
+28	1	REL	`regulate`
+13	1	REL	`regulate`
+29	1	REL	`regulate`
+30	1	REL	`regulate`
+31	1	REL	`regulate`
+32	1	REL	`regulate`
+33	1	REL	`regulate`
+1	34	REL	`revealed`
+1	35	REL	`revealed`
+1	36	REL	`revealed`
+1	37	REL	`revealed`
+1	38	REL	`revealed`
+1	39	REL	`revealed`
+1	40	REL	`contains`
+41	0	REL	`was displayed`
+42	42	REL	`were found`
+1	0	REL	`affect`
+1	43	REL	`affect`
+18	26	REL	`may affect`
+18	43	REL	`may affect`
+18	25	REL	`may affect`
+1	18	REL	`expressed`
+1	0	REL	`expressed`
+1	44	REL	`upregulated`
+1	25	REL	`upregulated`
+1	45	REL	`upregulated`
+46	43	REL	`cause; can affect`
+14	1	REL	`can downregulate`
+14	0	REL	`can downregulate`
+47	1	REL	`can downregulate`
+47	0	REL	`can downregulate`
+48	1	REL	`can downregulate`
+48	0	REL	`can downregulate`
+49	1	REL	`can downregulate`
+49	0	REL	`can downregulate`
+50	51	REL	`increased`
+50	52	REL	`increased`
+50	53	REL	`increased`
+50	54	REL	`increased`
+55	51	REL	`increased`
+55	52	REL	`increased`
+55	53	REL	`increased`
+55	54	REL	`increased`
+55	56	REL	`have been found to enhance`
+55	57	REL	`have been found to enhance`
+50	56	REL	`have been found to enhance`
+50	57	REL	`have been found to enhance`
+55	45	REL	`increased`
+55	58	REL	`enhanced`
+50	58	REL	`increased`
+50	59	REL	`increased; increasing`
+50	60	REL	`increased; increasing`
+50	61	REL	`increased; increasing`
+56	50	REL	`releasing`
+56	62	REL	`releasing`
+63	50	REL	`releasing`
+63	62	REL	`releasing`
+57	50	REL	`releasing`
+57	62	REL	`releasing`
+64	50	REL	`released`
+64	55	REL	`released`
+65	66	REL	`containing`
+67	68	REL	`increased`
+67	69	REL	`increased`
+70	68	REL	`increased`
+70	71	REL	`increased`
+72	64	REL	`would not produce`
+50	64	REL	`would not produce`
+50	50	REL	`decreased`
+50	62	REL	`decreased`
+62	50	REL	`decreased`
+62	62	REL	`decreased`
+73	74	REL	`were released`
+75	73	REL	`released`
+76	77	REL	`increased`
+68	52	REL	`increased`
+68	54	REL	`increased`
+68	78	REL	`increased`
+68	79	REL	`increased`
+50	57	REL	`can enhance`
+72	57	REL	`can enhance`
+80	81	REL	`expressed`
+52	68	REL	`were found`
+52	82	REL	`were found`
+54	68	REL	`were found`
+54	82	REL	`were found`
+78	68	REL	`were found`
+78	82	REL	`were found`
+79	68	REL	`were found`
+79	82	REL	`were found`
+53	68	REL	`were found`
+53	82	REL	`were found`
+45	83	REL	`may cause`
+84	83	REL	`may cause`
+85	86	REL	`containing`
+50	83	REL	`reduces`
+72	83	REL	`reduces`
+50	87	REL	`reduces; increasing`
+72	87	REL	`reduces; increasing`
+50	56	REL	`triggered`
+50	57	REL	`triggered`
+72	56	REL	`triggered`
+72	57	REL	`triggered`
+56	56	REL	`should induce`
+56	88	REL	`should induce; enhancing; increasing`
+89	80	REL	`reducing`
+89	90	REL	`reducing`
+89	91	REL	`reducing`
+92	80	REL	`reducing`
+92	90	REL	`reducing`
+92	91	REL	`reducing`
+80	80	REL	`reducing`
+80	90	REL	`reducing`
+80	91	REL	`reducing`
+52	93	REL	`could enhance`
+50	57	REL	`induced`
+72	57	REL	`induced`
+50	53	REL	`enhanced`
+72	53	REL	`enhanced`
+50	51	REL	`enhanced; regulating`
+72	51	REL	`enhanced; regulating`
+94	56	REL	`enhancing`
+95	1	REL	`Reveals`
+95	45	REL	`Reveals`
+95	0	REL	`Reveals`
+1	18	REL	`was associated`
+1	96	REL	`was associated`
+1	97	REL	`has been found to induce`
+1	98	REL	`has been found to induce`
+1	52	REL	`has been found to induce; stimulates`
+1	18	REL	`can reduce`
+45	0	REL	`contains`
+1	0	REL	`was detected`
+1	99	REL	`was detected`
+1	100	REL	`was detected`
+1	101	REL	`was detected`
+0	102	REL	`were detected`
+0	103	REL	`were detected`
+0	104	REL	`were detected`
+1	102	REL	`were detected`
+1	103	REL	`were detected`
+1	104	REL	`were detected`
+1	105	REL	`was found`
+1	104	REL	`was found`
+1	103	REL	`was found`
+1	106	REL	`was found`
+1	107	REL	`was detected`
+1	45	REL	`was detected`
+104	0	REL	`was detected`
+107	0	REL	`was detected`
+1	107	REL	`was associated`
+1	0	REL	`may affect`
+1	108	REL	`may affect`
+1	0	REL	`associated`
+1	109	REL	`associated`
+0	0	REL	`were detected`
+110	0	REL	`were detected`
+109	0	REL	`were detected`
+107	0	REL	`were detected`
+104	0	REL	`were detected`
+1	0	REL	`were detected`
+103	0	REL	`were detected`
+111	1	REL	`found`
+111	112	REL	`found`
+113	1	REL	`found`
+113	112	REL	`found`
+1	110	REL	`expressed; containing`
+1	107	REL	`expressed; containing`
+1	114	REL	`expressed; containing`
+1	105	REL	`expressed; containing`
+1	104	REL	`expressed; containing`
+1	115	REL	`expressed; containing`
+1	103	REL	`expressed; containing`
+1	116	REL	`expressed; expressed`
+1	101	REL	`expressed; expressed`
+1	117	REL	`associated`
+1	45	REL	`was associated`
+118	107	REL	`was associated`
+118	45	REL	`was associated`
+109	26	REL	`will cause`
+109	45	REL	`will cause`
+109	0	REL	`will cause`
+1	107	REL	`affects`
+1	119	REL	`affects`
+1	45	REL	`expressed`
+1	120	REL	`Are Associated`
+121	122	REL	`was increased`
+121	45	REL	`was increased`
+1	45	REL	`associated`
+1	122	REL	`associated`
+123	45	REL	`associated`
+123	122	REL	`associated`
+124	45	REL	`associated`
+124	122	REL	`associated`
+125	45	REL	`associated`
+125	122	REL	`associated`
+126	45	REL	`associated`
+126	122	REL	`associated`
+127	45	REL	`expressed`
+1	0	REL	`is increased`
+128	129	REL	`stimulating`
+130	131	REL	`decrease`
+130	132	REL	`decrease`
+133	131	REL	`decrease`
+133	132	REL	`decrease`
+125	1	REL	`associated`
+125	0	REL	`associated`
+52	1	REL	`associated`
+52	0	REL	`associated`
+125	120	REL	`Are Associated`
+1	120	REL	`was found`
+1	45	REL	`was found`
+1	122	REL	`increased`
+125	122	REL	`increased`
+134	1	REL	`have found`
+45	135	REL	`have decreased`
+1	136	REL	`expressed; are released`
+125	137	REL	`were associated`
+125	45	REL	`were associated`
+1	137	REL	`were associated`
+1	45	REL	`were associated`
+125	130	REL	`found to be`
+1	122	REL	`is increased`
+1	45	REL	`is increased`
+1	138	REL	`enhances`
+1	139	REL	`expressed`
+1	140	REL	`expressed`
+127	139	REL	`expressed`
+127	140	REL	`expressed`
+0	1	REL	`express`
+1	1	REL	`were expressed`
+1	36	REL	`were expressed`
+141	1	REL	`were expressed`
+141	36	REL	`were expressed`
+141	142	REL	`was expressed`
+141	1	REL	`was expressed`
+141	36	REL	`was expressed`
+141	143	REL	`decreased`
+141	1	REL	`decreased`
+141	36	REL	`decreased`
+144	143	REL	`decreased`
+144	1	REL	`decreased`
+144	36	REL	`decreased`
+141	1	REL	`was not affected`
+141	145	REL	`decreased`
+141	146	REL	`decreased`
+141	130	REL	`decreased`
+147	1	REL	`be found`
+148	1	REL	`be found`
+149	1	REL	`be found`
+150	1	REL	`be found`
+151	1	REL	`be found`
+147	1	REL	`was found`
+152	1	REL	`increased`
+152	153	REL	`increased`
+154	1	REL	`increased`
+154	153	REL	`increased`
+36	147	REL	`produced`
+155	147	REL	`produced`
+1	147	REL	`produced`
+156	1	REL	`were decreased`
+157	1	REL	`were increased`
+157	36	REL	`were increased`
+157	158	REL	`were increased`
+159	1	REL	`is enhanced`
+160	161	REL	`would be enhanced; reduce`
+162	161	REL	`would be enhanced; reduce`
+163	164	REL	`yielded decreased`
+1	164	REL	`yielded decreased`
+165	36	REL	`decreased`
+166	1	REL	`increased`
+167	130	REL	`would be induced`
+167	168	REL	`would be induced`
+169	130	REL	`would be induced`
+169	168	REL	`would be induced`
+1	130	REL	`would be induced`
+1	168	REL	`would be induced`
+170	1	REL	`were found`
+170	36	REL	`were found`
+171	1	REL	`were found`
+171	36	REL	`were found`
+172	36	REL	`increased`
+172	1	REL	`increased`
+1	173	REL	`caused`
+174	173	REL	`caused`
+175	173	REL	`caused`
+1	156	REL	`might cause`
+1	141	REL	`may not affect`
+168	141	REL	`might be caused`
+168	1	REL	`might be caused`
+1	176	REL	`is associated`
+1	177	REL	`is associated`
+1	178	REL	`is associated`
+1	45	REL	`is associated`
+1	175	REL	`is associated`
+1	1	REL	`is associated`
+1	36	REL	`is associated`
+161	1	REL	`activated`
+179	1	REL	`activated`
+159	1	REL	`activated`
+180	181	REL	`containing`
+36	66	REL	`containing`
+141	66	REL	`containing`
+1	130	REL	`regulates`
+1	168	REL	`regulates`
+182	182	REL	`contains`
+183	182	REL	`were found to be`
+183	184	REL	`were found to be`
+156	182	REL	`were found to be`
+156	184	REL	`were found to be`
+185	182	REL	`were found to be`
+185	184	REL	`were found to be`
+186	187	REL	`found`
+159	188	REL	`could increase`
+188	189	REL	`have been produced`
+190	190	REL	`to enhance`
+191	190	REL	`to enhance`
+182	190	REL	`to enhance`
+192	190	REL	`to enhance`
+193	194	REL	`to induce`
+195	194	REL	`to induce`
+194	196	REL	`increased`
+194	197	REL	`increased; decreased`
+198	199	REL	`have been detected`
+185	200	REL	`can be released`
+156	200	REL	`can be released`
+201	202	REL	`were released`
+156	202	REL	`were released`
+203	199	REL	`detected`
+204	199	REL	`detected`
+205	206	REL	`containing`
+205	207	REL	`containing`
+208	209	REL	`expressed`
+210	209	REL	`expressed`
+156	156	REL	`were not detected`
+211	159	REL	`containing`
+212	156	REL	`were detected`
+26	0	REL	`should be paid increasing; are found`
+26	45	REL	`should be paid increasing; are found`
+26	44	REL	`should be paid increasing; are found`
+26	25	REL	`should be paid increasing; are found`
+0	45	REL	`should be paid increasing; are found`
+0	44	REL	`should be paid increasing; are found`
+0	25	REL	`should be paid increasing; are found`
+45	0	REL	`should be paid increasing; are found`
+45	44	REL	`should be paid increasing; are found`
+45	25	REL	`should be paid increasing; are found`
+45	1	REL	`tend to be found increasing`
+50	79	REL	`has been found; regulate; including`
+50	52	REL	`has been found; regulate; including`
+50	54	REL	`has been found; regulate; including`
+50	213	REL	`has been found; regulate; including`
+55	79	REL	`has been found; regulate; including`
+55	52	REL	`has been found; regulate; including`
+55	54	REL	`has been found; regulate; including`
+55	213	REL	`has been found; regulate; including`
+72	56	REL	`repaired; regulating; enhancing`
+72	57	REL	`repaired; regulating; enhancing`
+50	56	REL	`repaired; regulating; enhancing`
+50	57	REL	`repaired; regulating; enhancing`
+36	214	REL	`do not develop; is induced; activating`
+141	214	REL	`do not develop; is induced; activating`
+215	214	REL	`do not develop; is induced; activating`
+0	1	REL	`were analyzed; found; reduced`
+18	107	REL	`had demonstrated; revealing; affects`
+18	119	REL	`had demonstrated; revealing; affects`
+0	0	REL	`used to detect`
+107	1	REL	`tend to have upregulated`
+45	1	REL	`tend to have upregulated`
+45	216	REL	`may cause; raising`
+84	216	REL	`may cause; raising`
+217	83	REL	`based; reduces`
+26	45	REL	`related; expressed`
+26	0	REL	`related; expressed`
+165	1	REL	`decreased; fed`
+1	17	REL	`was found to stain`
+218	0	REL	`associated; including`
+219	0	REL	`associated; including`
+220	0	REL	`is associated; including`
+1	43	REL	`affect; including`
+1	107	REL	`expressed; including`
+1	106	REL	`expressed; including`
+1	221	REL	`expressed; including`
+1	222	REL	`expressed; including`
+55	52	REL	`increased; promoted`
+50	223	REL	`can enhance; promoting`
+72	223	REL	`can enhance; promoting`
+50	56	REL	`yielded; inducing`
+62	56	REL	`yielded; inducing`
+50	57	REL	`resulted; regulating`
+50	56	REL	`resulted; regulating`
+68	57	REL	`resulted; regulating`
+68	56	REL	`resulted; regulating`
+62	57	REL	`resulted; regulating`
+62	56	REL	`resulted; regulating`
+55	89	REL	`can modulate; increasing`
+55	92	REL	`can modulate; increasing`
+55	80	REL	`can modulate; increasing`
+50	89	REL	`can modulate; increasing`
+50	92	REL	`can modulate; increasing`
+50	80	REL	`can modulate; increasing`
+52	224	REL	`caused; to degrade`
+52	225	REL	`caused; to degrade`
+54	224	REL	`caused; to degrade`
+54	225	REL	`caused; to degrade`
+1	111	REL	`may play; affecting`
+1	113	REL	`may play; affecting`
+107	45	REL	`had; was found`
+107	104	REL	`had; was found`
+1	226	REL	`leads; decreases`
+1	122	REL	`was found to promote`
+155	147	REL	`were tested; to produce`
+152	147	REL	`were tested; to produce`
+130	147	REL	`were tested; to produce`
+168	147	REL	`were tested; to produce`
+1	147	REL	`were tested; to produce`
+36	147	REL	`were tested; to produce`
+227	228	REL	`was activated to dispose`
+1	229	REL	`might cause; including`
+1	230	REL	`might cause; including`
+231	66	REL	`incubated; containing`
+231	232	REL	`incubated; containing`
+233	234	REL	`contain; leading`
+235	45	REL	`results; produced`
+236	156	REL	`increased; resulting`
+236	237	REL	`increased; resulting`
+236	238	REL	`increased; resulting`
+239	240	REL	`is rising; affected`
+209	241	REL	`extracts expressed`
+242	241	REL	`extracts expressed`
+209	156	REL	`indicating; enhanced`
+209	210	REL	`extracts expressed`
+156	210	REL	`extracts expressed`
+14	243	REL	`has been shown to have; activating`
+1	18	REL	`is conserved; upregulated`
+46	244	REL	`were found; showed`
+15	18	REL	`regulated; facilitating`
+17	18	REL	`regulated; facilitating`
+1	18	REL	`regulated; facilitating`
+1	27	REL	`was involved; do not express`
+42	18	REL	`were found; showed`
+26	44	REL	`noticed; upregulated`
+26	25	REL	`noticed; upregulated`
+26	45	REL	`noticed; upregulated`
+45	44	REL	`noticed; upregulated`
+45	25	REL	`noticed; upregulated`
+0	46	REL	`were found; showed`
+1	46	REL	`were found; showed`
+50	245	REL	`can generate; regulating`
+246	247	REL	`were expressed; compared`
+94	247	REL	`were expressed; compared`
+248	247	REL	`were expressed; compared`
+246	249	REL	`were expressed; compared`
+94	249	REL	`were expressed; compared`
+248	249	REL	`were expressed; compared`
+52	250	REL	`were found; compared`
+52	75	REL	`were found; compared`
+52	249	REL	`were found; compared`
+52	69	REL	`were found; compared`
+54	250	REL	`were found; compared`
+54	75	REL	`were found; compared`
+54	249	REL	`were found; compared`
+54	69	REL	`were found; compared`
+78	250	REL	`were found; compared`
+78	75	REL	`were found; compared`
+78	249	REL	`were found; compared`
+78	69	REL	`were found; compared`
+79	250	REL	`were found; compared`
+79	75	REL	`were found; compared`
+79	249	REL	`were found; compared`
+79	69	REL	`were found; compared`
+53	250	REL	`were found; compared`
+53	75	REL	`were found; compared`
+53	249	REL	`were found; compared`
+53	69	REL	`were found; compared`
+50	88	REL	`enhanced; showing`
+72	88	REL	`enhanced; showing`
+0	45	REL	`should be paid; are found`
+0	44	REL	`should be paid; are found`
+0	25	REL	`should be paid; are found`
+45	44	REL	`should be paid; are found`
+45	25	REL	`should be paid; are found`
+45	0	REL	`should be paid; are found`
+26	45	REL	`should be paid; are found`
+26	44	REL	`should be paid; are found`
+26	25	REL	`should be paid; are found`
+26	0	REL	`should be paid; are found`
+251	80	REL	`signaling; induce`
+20	80	REL	`signaling; induce`
+252	1	REL	`increased; describe`
+25	1	REL	`increased; describe`
+253	1	REL	`increased; describe`
+1	52	REL	`shown to stimulate`
+126	130	REL	`may be influenced; found to be`
+122	130	REL	`may be influenced; found to be`
+147	254	REL	`was found; treated`
+147	255	REL	`was found; treated`
+36	1	REL	`produced; seen`
+155	1	REL	`produced; seen`
+155	36	REL	`produced; seen`
+1	36	REL	`produced; seen`
+157	1	REL	`were increased; compared`
+157	36	REL	`were increased; compared`
+157	158	REL	`were increased; compared`
+165	36	REL	`decreased; compared`
+165	1	REL	`decreased; compared`
+166	256	REL	`increased; Figure`
+170	36	REL	`were found; compared`
+171	36	REL	`were found; compared`
+172	36	REL	`increased; compared`
+257	187	REL	`revealed; compared`
+258	259	REL	`was found to be; favored`
+260	260	REL	`has been found to vary`
+236	261	REL	`increased; limiting`
+208	207	REL	`can occur; may be found`
+262	207	REL	`can occur; may be found`
+263	264	REL	`are known to be; was produced`
+265	249	REL	`reduced; were incorporated compared`
+1	266	REL	`was found to enhance; antibodies inhibited`
+1	252	REL	`was found to enhance; antibodies inhibited`
+1	267	REL	`revealed; suggesting`
+268	56	REL	`induced; improved`
+269	56	REL	`induced; improved`
+74	73	REL	`was incorporated; released`
+1	0	REL	`was associated; suggesting`
+1	270	REL	`has been found to induce; participating`
+1	0	REL	`considered to be; causing`
+127	129	REL	`expressed; identified`
+127	97	REL	`expressed; identified`
+1	0	REL	`is increased; is considered to be`
+1	271	REL	`is increased; is considered to be`
+45	120	REL	`were detected; suggesting`
+272	120	REL	`may be released; following`
+1	139	REL	`were expressed; were observed`
+141	139	REL	`were expressed; were observed`
+130	273	REL	`was found; suggesting`
+1	130	REL	`might contribute to; increasing`
+1	168	REL	`might contribute to; increasing`
+1	141	REL	`might contribute to; increasing`
+274	275	REL	`fortified; decreased`
+274	276	REL	`fortified; decreased`
+274	45	REL	`fortified; decreased`
+274	277	REL	`fortified; decreased`
+1	278	REL	`has been found to correlate`
+121	1	REL	`exhibited increased`
+122	1	REL	`exhibited increased`
+1	43	REL	`is increased; accompanied`
+160	1	REL	`intermediates; decreased`
+279	280	REL	`was found surrounding`
+0	121	REL	`reduced; demonstrating`
+50	63	REL	`was synthesized to not; reduce`
+1	45	REL	`was associated; demonstrated`
+1	106	REL	`was associated; demonstrated`
+1	244	REL	`was associated; demonstrated`
+125	122	REL	`found to be; differentiating`
+170	1	REL	`were found; compared; fed`
+171	1	REL	`were found; compared; fed`
+172	1	REL	`increased; compared; fed`
+42	0	REL	`was; found`
+1	0	REL	`was; found`
+1	0	REL	`was; increased not`
+62	69	REL	`increased; was`
+62	68	REL	`increased; was`
+24	281	REL	`has been; caused`
+26	281	REL	`has been; caused`
+1	0	REL	`was found; was not`
+1	109	REL	`was; to affect`
+1	45	REL	`was; to affect`
+1	45	REL	`is; is upregulated`
+1	18	REL	`is; is upregulated`
+1	26	REL	`is; is upregulated`
+18	1	REL	`was; were found associated`
+1	125	REL	`is; controlling`
+1	130	REL	`is; controlling`
+282	125	REL	`is; controlling`
+282	130	REL	`is; controlling`
+283	132	REL	`is; associated`
+283	284	REL	`is; associated`
+283	285	REL	`is; associated`
+122	132	REL	`is; associated`
+122	284	REL	`is; associated`
+122	285	REL	`is; associated`
+1	52	REL	`is; inducing`
+134	43	REL	`have found; to be`
+141	286	REL	`is expressed; is`
+141	287	REL	`is expressed; is`
+1	288	REL	`associated; will be`
+289	274	REL	`is; producing`
+263	290	REL	`is; contained`
+25	22	REL	`can bind`
+25	1	REL	`can bind`
+125	122	REL	`were overexpressed`
+1	122	REL	`were overexpressed`
+291	292	REL	`incubated; washed; blocked`
+123	1	REL	`is predicted to lie; is expected to exert; affecting`
+125	122	REL	`are overexpressed`
+1	122	REL	`are overexpressed`
+275	293	REL	`simulated`
+276	293	REL	`simulated`
+45	293	REL	`simulated`
+277	293	REL	`simulated`
+14	294	REL	`can downregulate; implying; interfering`
+14	25	REL	`can downregulate; implying; interfering`
+47	294	REL	`can downregulate; implying; interfering`
+47	25	REL	`can downregulate; implying; interfering`
+48	294	REL	`can downregulate; implying; interfering`
+48	25	REL	`can downregulate; implying; interfering`
+49	294	REL	`can downregulate; implying; interfering`
+49	25	REL	`can downregulate; implying; interfering`
+50	57	REL	`could repair; regulating; promoting`
+50	56	REL	`could repair; regulating; promoting`
+72	57	REL	`could repair; regulating; promoting`
+72	56	REL	`could repair; regulating; promoting`
+0	1	REL	`express; making; studying`
+263	262	REL	`extracts; have been detected; occurs`
+263	295	REL	`extracts; have been detected; occurs`
+263	296	REL	`extracts; have been detected; occurs`
+263	297	REL	`extracts; have been detected; occurs`
+68	57	REL	`showed; showing; can enhance`
+264	298	REL	`are released; remain; might have generated`
+1	45	REL	`were investigated; was found; correlated`
+55	245	REL	`incorporated; can generate; regulating`
+1	299	REL	`may contribute; inducing; contributing to tissue`
+1	0	REL	`expressed; represents; identifies`
+55	63	REL	`doped; was synthesized to not; reduce`
+1	228	REL	`was suppressed; was activated to dispose`
+36	228	REL	`was suppressed; was activated to dispose`
+160	228	REL	`was suppressed; was activated to dispose`
+227	156	REL	`was activated to dispose; was generated`
+227	155	REL	`was activated to dispose; was generated`
+227	152	REL	`was activated to dispose; was generated`
+227	160	REL	`was activated to dispose; was generated`
+227	300	REL	`was activated to dispose; was generated`
+1	57	REL	`is; involved; associated`
+282	57	REL	`is; involved; associated`
+122	52	REL	`was shown to be co-expressed`
+1	52	REL	`was shown to be co-expressed`
+1	52	REL	`shown to stimulate; decided to assess`
+52	122	REL	`was shown to be co-expressed`
+52	45	REL	`was shown to be co-expressed`
+52	1	REL	`was shown to be co-expressed`
+1	122	REL	`shown to stimulate; decided to assess`
+144	301	REL	`is; suggesting; is expressed`
+302	303	REL	`concluded; is; reducing`
+125	304	REL	`were overexpressed; led`
+305	304	REL	`were overexpressed; led`
+306	209	REL	`consisted; bound`
+307	45	REL	`fixed`
+307	308	REL	`fixed`
+309	310	REL	`were used`
+309	13	REL	`were used`
+56	311	REL	`related`
+312	313	REL	`were fixed`
+314	315	REL	`using; grinding`
+1	0	REL	`was related`
+1	316	REL	`was related`
+0	317	REL	`were obtained`
+0	45	REL	`were obtained`
+1	45	REL	`were obtained`
+109	318	REL	`based`
+109	319	REL	`based`
+0	94	REL	`based`
+1	108	REL	`was related`
+1	320	REL	`was related`
+1	104	REL	`was related`
+1	45	REL	`was related`
+1	110	REL	`was related`
+1	321	REL	`was related`
+112	322	REL	`related`
+112	323	REL	`related`
+112	324	REL	`related`
+112	111	REL	`related`
+112	113	REL	`related`
+112	325	REL	`related`
+112	326	REL	`related`
+112	327	REL	`related`
+1	322	REL	`related`
+1	323	REL	`related`
+1	324	REL	`related`
+1	111	REL	`related`
+1	113	REL	`related`
+1	325	REL	`related`
+1	326	REL	`related`
+1	327	REL	`related`
+112	1	REL	`may be related`
+125	120	REL	`can be used`
+121	120	REL	`can be used`
+1	120	REL	`can be used`
+328	329	REL	`using`
+122	329	REL	`using`
+45	329	REL	`using`
+1	289	REL	`were selected based`
+1	330	REL	`were selected based`
+125	289	REL	`were selected based`
+125	330	REL	`were selected based`
+1	331	REL	`using`
+1	36	REL	`using`
+1	332	REL	`using`
+168	160	REL	`linked`
+130	160	REL	`linked`
+333	334	REL	`using`
+147	1	REL	`fed`
+47	1	REL	`fed`
+335	336	REL	`using`
+335	337	REL	`using`
+338	160	REL	`used`
+1	160	REL	`used`
+1	335	REL	`used`
+182	339	REL	`grinded`
+182	340	REL	`grinded`
+182	341	REL	`grinded`
+182	342	REL	`grinded`
+182	287	REL	`be used`
+343	344	REL	`using`
+343	345	REL	`using`
+182	346	REL	`used`
+182	347	REL	`used`
+182	348	REL	`used`
+349	350	REL	`has been linked`
+293	45	REL	`using`
+351	352	REL	`linked`
+351	353	REL	`linked`
+354	352	REL	`linked`
+354	353	REL	`linked`
+355	352	REL	`linked`
+355	353	REL	`linked`
+356	352	REL	`linked`
+356	353	REL	`linked`
+357	352	REL	`linked`
+357	353	REL	`linked`
+205	352	REL	`linked`
+205	353	REL	`linked`
+358	352	REL	`linked`
+358	353	REL	`linked`
+359	359	REL	`was used`
+360	306	REL	`been used`
+361	353	REL	`linked`
+50	57	REL	`showed; was; immunomodulating; enhancing`
+50	56	REL	`showed; was; immunomodulating; enhancing`
+72	57	REL	`showed; was; immunomodulating; enhancing`
+72	56	REL	`showed; was; immunomodulating; enhancing`
+125	122	REL	`showed decreased; is`
+125	362	REL	`showed decreased; is`
+223	223	REL	`were taken using`
+363	364	REL	`was stained using`
+363	365	REL	`was stained using`
+366	146	REL	`tend to form`
+50	367	REL	`was taped; using`
+72	367	REL	`was taped; using`
+1	109	REL	`played; related`
+1	350	REL	`were selected based; predicted`
+125	350	REL	`were selected based; predicted`
+368	146	REL	`are obtained; does not result`
+369	146	REL	`are obtained; does not result`
+182	370	REL	`grinded; to make; preventing`
+182	371	REL	`grinded; to make; preventing`
+182	372	REL	`grinded; to make; preventing`
+210	359	REL	`used to extract; extracted`
+210	200	REL	`used to extract; extracted`
+18	41	REL	`were evaluated using`
+18	1	REL	`were evaluated using`
+1	41	REL	`were evaluated using`
+1	1	REL	`were evaluated using`
+50	373	REL	`were measured using`
+62	373	REL	`were measured using`
+374	373	REL	`were measured using`
+50	72	REL	`shaken; to obtain`
+72	50	REL	`shaken; to obtain`
+249	50	REL	`shaken; to obtain`
+249	72	REL	`shaken; to obtain`
+52	247	REL	`was used; compared`
+54	247	REL	`was used; compared`
+78	247	REL	`was used; compared`
+94	375	REL	`were calculated using`
+0	112	REL	`based; signaling`
+1	112	REL	`based; signaling`
+376	1	REL	`was used to assess`
+130	377	REL	`were measured using`
+130	130	REL	`were measured using`
+147	377	REL	`were measured using`
+147	130	REL	`were measured using`
+378	132	REL	`was used; would spread`
+379	132	REL	`was used; would spread`
+380	381	REL	`was used to eliminate`
+210	306	REL	`was used; was described`
+210	199	REL	`used; to isolate`
+210	263	REL	`used; to isolate`
+382	383	REL	`were re-suspended; fixed`
+37	313	REL	`were harvested; rinsed; fixed`
+50	384	REL	`has; can be used; to treat`
+55	384	REL	`has; can be used; to treat`
+147	1	REL	`depends; using; derived`
+147	36	REL	`depends; using; derived`
+36	1	REL	`had elevated fasting; compared; fed`
+376	1	REL	`was conducted; described using`
+18	385	REL	`including`
+18	106	REL	`including`
+18	244	REL	`including`
+1	294	REL	`to fight`
+1	26	REL	`to fight`
+1	25	REL	`plays`
+1	81	REL	`plays`
+18	1	REL	`estimating`
+18	0	REL	`estimating`
+45	1	REL	`estimating`
+45	0	REL	`estimating`
+43	1	REL	`estimating`
+43	0	REL	`estimating`
+26	1	REL	`estimating`
+26	0	REL	`estimating`
+18	1	REL	`had`
+0	386	REL	`including`
+0	106	REL	`including`
+0	387	REL	`including`
+0	244	REL	`including`
+0	388	REL	`including`
+0	389	REL	`including`
+0	390	REL	`including`
+0	385	REL	`including`
+0	45	REL	`indicating; plays`
+0	294	REL	`indicating; plays`
+1	45	REL	`plays`
+1	294	REL	`plays`
+1	0	REL	`plays`
+391	1	REL	`including`
+42	40	REL	`has`
+121	40	REL	`has`
+1	392	REL	`dose`
+49	25	REL	`might have`
+14	25	REL	`might have`
+393	1	REL	`indicating`
+393	394	REL	`indicating`
+393	0	REL	`indicating`
+393	25	REL	`indicating`
+393	45	REL	`indicating`
+393	294	REL	`indicating`
+0	26	REL	`including`
+0	45	REL	`including`
+0	107	REL	`including`
+1	43	REL	`to fight`
+55	91	REL	`ions`
+55	89	REL	`ions`
+55	92	REL	`ions`
+55	90	REL	`ions`
+225	91	REL	`ions`
+225	89	REL	`ions`
+225	92	REL	`ions`
+225	90	REL	`ions`
+50	91	REL	`ions`
+50	89	REL	`ions`
+50	92	REL	`ions`
+50	90	REL	`ions`
+146	72	REL	`make`
+146	50	REL	`make`
+50	57	REL	`modulates`
+50	56	REL	`modulates`
+72	57	REL	`modulates`
+72	56	REL	`modulates`
+50	146	REL	`has`
+55	146	REL	`has`
+80	57	REL	`promote`
+80	56	REL	`promote`
+80	395	REL	`promote`
+80	52	REL	`promote`
+80	396	REL	`promote`
+80	397	REL	`promote`
+55	56	REL	`modulating`
+55	63	REL	`modulating`
+55	57	REL	`modulating`
+50	56	REL	`modulating`
+50	63	REL	`modulating`
+50	57	REL	`modulating`
+63	57	REL	`promote`
+63	56	REL	`promote`
+146	268	REL	`were mixed`
+146	398	REL	`were mixed`
+399	268	REL	`were mixed`
+399	398	REL	`were mixed`
+400	268	REL	`were mixed`
+400	398	REL	`were mixed`
+401	268	REL	`were mixed`
+401	398	REL	`were mixed`
+402	268	REL	`were mixed`
+402	398	REL	`were mixed`
+403	268	REL	`were mixed`
+403	398	REL	`were mixed`
+404	268	REL	`were mixed`
+404	398	REL	`were mixed`
+405	268	REL	`were mixed`
+405	398	REL	`were mixed`
+50	247	REL	`was named`
+50	406	REL	`was named`
+50	407	REL	`was named`
+50	408	REL	`was named`
+50	409	REL	`was named`
+72	247	REL	`was named`
+72	406	REL	`was named`
+72	407	REL	`was named`
+72	408	REL	`was named`
+72	409	REL	`was named`
+410	411	REL	`were used to determine`
+382	318	REL	`was analyzed using`
+382	90	REL	`was analyzed using`
+382	91	REL	`was analyzed using`
+382	89	REL	`was analyzed using`
+382	92	REL	`was analyzed using`
+412	413	REL	`was added`
+414	37	REL	`was injected`
+414	312	REL	`was injected`
+414	415	REL	`was injected`
+416	37	REL	`was injected`
+416	312	REL	`was injected`
+416	417	REL	`was injected; to prevent`
+37	414	REL	`were killed; injecting`
+312	414	REL	`were sacrificed using`
+418	419	REL	`dehydrated using`
+312	420	REL	`were injected`
+312	421	REL	`were injected`
+73	422	REL	`reached; did not result`
+74	225	REL	`had`
+423	225	REL	`had`
+223	90	REL	`staining`
+223	91	REL	`staining`
+223	89	REL	`staining`
+223	92	REL	`staining`
+223	382	REL	`staining`
+77	59	REL	`promoted`
+51	55	REL	`indicating`
+51	50	REL	`indicating`
+53	55	REL	`indicating`
+53	50	REL	`indicating`
+68	55	REL	`indicating`
+68	50	REL	`indicating`
+82	55	REL	`indicating`
+82	50	REL	`indicating`
+75	55	REL	`indicating`
+75	50	REL	`indicating`
+50	109	REL	`to modulate`
+62	109	REL	`to modulate`
+94	424	REL	`is needed`
+57	424	REL	`is needed`
+425	248	REL	`staining; staining`
+425	94	REL	`staining; indicated; indicated`
+425	249	REL	`staining; indicated; indicated`
+426	248	REL	`staining; staining`
+426	427	REL	`staining; staining`
+428	94	REL	`indicated`
+429	80	REL	`staining`
+62	63	REL	`resulted`
+62	57	REL	`resulted`
+62	56	REL	`resulted`
+50	63	REL	`resulted`
+50	57	REL	`resulted`
+50	56	REL	`resulted`
+1	0	REL	`may play`
+109	109	REL	`are reflected`
+109	18	REL	`are reflected`
+18	109	REL	`are reflected`
+18	18	REL	`are reflected`
+107	1	REL	`had`
+0	1	REL	`implying`
+324	0	REL	`may play`
+324	45	REL	`may play`
+325	0	REL	`may play`
+325	45	REL	`may play`
+113	0	REL	`may play`
+113	45	REL	`may play`
+111	0	REL	`may play`
+111	45	REL	`may play`
+0	0	REL	`poses`
+0	45	REL	`poses`
+45	0	REL	`poses`
+45	45	REL	`poses`
+26	0	REL	`poses`
+26	45	REL	`poses`
+252	0	REL	`poses`
+252	45	REL	`poses`
+25	0	REL	`poses`
+25	45	REL	`poses`
+25	18	REL	`invading; has received`
+430	18	REL	`has received`
+431	18	REL	`has received`
+1	45	REL	`played`
+1	0	REL	`played`
+1	432	REL	`played`
+1	25	REL	`played`
+112	111	REL	`may be related; participating`
+112	113	REL	`may be related; participating`
+1	120	REL	`may act`
+1	271	REL	`may act`
+125	120	REL	`may act`
+125	271	REL	`may act`
+121	120	REL	`may act`
+121	271	REL	`may act`
+1	130	REL	`leads`
+137	1	REL	`proved`
+304	1	REL	`proved`
+125	304	REL	`led`
+1	120	REL	`had`
+433	120	REL	`had`
+292	1	REL	`washed; incubated`
+434	1	REL	`washed; incubated`
+435	1	REL	`washed; incubated`
+436	1	REL	`washed; incubated`
+291	437	REL	`incubated`
+52	438	REL	`count`
+52	439	REL	`count`
+440	1	REL	`had`
+440	441	REL	`had; had`
+57	122	REL	`plays`
+123	442	REL	`is predicted to lie`
+123	443	REL	`is predicted to lie`
+1	442	REL	`is predicted to lie`
+1	443	REL	`is predicted to lie`
+444	130	REL	`preventing`
+444	168	REL	`preventing`
+444	160	REL	`preventing; suppressing`
+169	445	REL	`can result`
+169	446	REL	`can result; including`
+169	447	REL	`can result; including`
+448	169	REL	`fails to suppress`
+449	169	REL	`fails to suppress`
+448	450	REL	`fails to suppress; leading`
+448	451	REL	`fails to suppress; leading`
+449	450	REL	`fails to suppress; leading`
+449	451	REL	`fails to suppress; leading`
+130	147	REL	`promote`
+130	169	REL	`promote`
+168	147	REL	`promote`
+168	169	REL	`promote`
+273	1	REL	`requires`
+273	452	REL	`requires`
+273	453	REL	`requires`
+130	45	REL	`has`
+130	43	REL	`has`
+168	45	REL	`has`
+168	43	REL	`has`
+1	45	REL	`has`
+1	43	REL	`has`
+1	141	REL	`resulted`
+1	141	REL	`resulted; indicating`
+1	454	REL	`reflected`
+141	454	REL	`reflected`
+1	455	REL	`leads`
+1	160	REL	`led`
+1	456	REL	`led; including`
+1	457	REL	`led; including`
+1	458	REL	`led; including`
+1	459	REL	`led; including`
+1	36	REL	`led; including`
+460	130	REL	`indicating`
+460	168	REL	`indicating`
+460	160	REL	`indicating`
+130	130	REL	`indicating`
+130	168	REL	`indicating`
+130	160	REL	`indicating`
+168	130	REL	`indicating`
+168	168	REL	`indicating`
+168	160	REL	`indicating`
+1	130	REL	`indicating`
+1	168	REL	`indicating`
+1	160	REL	`indicating`
+1	455	REL	`may promote`
+1	461	REL	`plays`
+130	1	REL	`fell`
+130	36	REL	`fell`
+168	1	REL	`fell`
+168	36	REL	`fell`
+147	141	REL	`depends`
+145	1	REL	`led`
+145	147	REL	`led`
+145	36	REL	`led`
+141	1	REL	`led`
+141	147	REL	`led`
+141	36	REL	`led`
+146	1	REL	`led`
+146	147	REL	`led`
+146	36	REL	`led`
+147	1	REL	`fell`
+147	36	REL	`fell`
+147	255	REL	`incubated`
+147	130	REL	`incubated`
+147	168	REL	`incubated`
+147	254	REL	`incubated`
+147	462	REL	`incubated`
+147	463	REL	`incubated`
+147	1	REL	`suppressed`
+147	254	REL	`suppressed`
+1	165	REL	`are protected`
+36	165	REL	`are protected`
+448	169	REL	`to suppress`
+448	464	REL	`to suppress`
+448	165	REL	`leading`
+1	147	REL	`had elevated fasting`
+36	147	REL	`had elevated fasting`
+36	147	REL	`had`
+47	147	REL	`fed; exhibited`
+465	147	REL	`maintained; did not suppress fasting`
+465	36	REL	`maintained; did not suppress fasting`
+465	466	REL	`maintained; did not suppress fasting`
+1	147	REL	`maintained; did not suppress fasting`
+1	36	REL	`maintained; did not suppress fasting`
+1	466	REL	`maintained; did not suppress fasting`
+36	147	REL	`maintained; did not suppress fasting`
+36	466	REL	`maintained; did not suppress fasting`
+1	467	REL	`prevents`
+1	468	REL	`prevents`
+147	1	REL	`were observed; fed`
+1	465	REL	`are protected`
+36	465	REL	`are protected`
+1	169	REL	`are protected; to suppress`
+36	169	REL	`are protected; to suppress`
+1	275	REL	`has; result`
+168	1	REL	`was suppressed`
+168	36	REL	`was suppressed`
+133	1	REL	`was suppressed`
+1	111	REL	`may provide; to modulate`
+141	111	REL	`may provide; to modulate`
+469	1	REL	`were suppressed`
+448	1	REL	`were suppressed`
+169	1	REL	`were suppressed`
+288	1	REL	`were suppressed`
+161	177	REL	`suppress`
+231	470	REL	`incubated; washed`
+231	471	REL	`incubated; washed`
+36	472	REL	`were lysed`
+473	474	REL	`incubated`
+473	475	REL	`washed`
+36	476	REL	`were injected`
+36	301	REL	`were injected`
+130	476	REL	`were injected`
+130	301	REL	`were injected`
+168	476	REL	`were injected`
+168	301	REL	`were injected`
+36	470	REL	`were injected; formulated`
+130	470	REL	`were injected; formulated`
+168	470	REL	`were injected; formulated`
+169	476	REL	`were fasted`
+169	163	REL	`were fasted`
+169	155	REL	`were fasted`
+36	476	REL	`were fasted`
+36	163	REL	`were fasted`
+36	155	REL	`were fasted`
+169	470	REL	`were fasted; formulated`
+36	470	REL	`were fasted; formulated`
+168	329	REL	`were determined using`
+168	168	REL	`were determined using`
+1	477	REL	`were washed`
+1	478	REL	`were washed; incubated`
+1	147	REL	`were washed; incubated`
+465	329	REL	`were analyzed using`
+465	461	REL	`were maintained`
+169	1	REL	`resulting`
+1	165	REL	`protects`
+1	36	REL	`protects`
+1	47	REL	`maintained`
+36	47	REL	`maintained`
+147	47	REL	`maintained`
+182	343	REL	`provide`
+182	288	REL	`has`
+343	182	REL	`was proven to be`
+343	479	REL	`was proven to be`
+312	480	REL	`reflected`
+312	481	REL	`reflected`
+482	480	REL	`reflected`
+482	481	REL	`reflected`
+199	483	REL	`including`
+199	484	REL	`including`
+485	486	REL	`resulted`
+274	487	REL	`resulted`
+488	260	REL	`can provide`
+489	286	REL	`had`
+490	491	REL	`had; had`
+490	236	REL	`had; had`
+492	493	REL	`continues to`
+492	236	REL	`can be formulated`
+494	495	REL	`indicating`
+496	495	REL	`indicating`
+239	45	REL	`is rising`
+45	497	REL	`to remove`
+208	263	REL	`was determined; using`
+208	207	REL	`led`
+498	499	REL	`resulted`
+498	500	REL	`resulted`
+264	290	REL	`had`
+209	156	REL	`was expected`
+156	210	REL	`extracted; extracts; were extracted`
+156	210	REL	`were extracted`
+501	264	REL	`depending`
+1	264	REL	`depending`
+502	210	REL	`were extracted`
+210	241	REL	`had`
+210	156	REL	`had`
+306	359	REL	`extracted`
+360	207	REL	`extracted`
+360	263	REL	`extracted`
+210	207	REL	`extracted`
+210	263	REL	`extracted`
+199	208	REL	`had`
+264	208	REL	`had`
+268	503	REL	`were crushed; grounded; sieved`
+210	156	REL	`was performed using; to ensure`
+382	504	REL	`was analyzed using; were measured using; culturing`
+1	318	REL	`was performed using`
+141	318	REL	`was performed using`
+130	130	REL	`was performed using`
+147	147	REL	`was performed using`
+147	505	REL	`was performed using`
+147	329	REL	`was performed using`
+506	161	REL	`was performed using`
+506	329	REL	`was performed using`
+349	507	REL	`have been shown to have; promoting`
+336	52	REL	`adjusted; was used to compare`
+336	121	REL	`adjusted; was used to compare`
+336	1	REL	`adjusted; was used to compare`
+336	122	REL	`adjusted; was used to compare`
+336	125	REL	`adjusted; was used to compare`
+391	294	REL	`were identified; could be used to predict`
+1	294	REL	`were identified; could be used to predict`
+219	294	REL	`were identified; could be used to predict`
+14	294	REL	`imply; interfering`
+42	156	REL	`has; encoded`
+121	156	REL	`has; encoded`
+508	0	REL	`showed; including`
+509	0	REL	`showed; including`
+72	384	REL	`cement; treating`
+50	384	REL	`cement; treating`
+86	510	REL	`can be adjusted; changing`
+146	511	REL	`were mixed; melted`
+399	511	REL	`were mixed; melted`
+400	511	REL	`were mixed; melted`
+401	511	REL	`were mixed; melted`
+402	511	REL	`were mixed; melted`
+403	511	REL	`were mixed; melted`
+404	511	REL	`were mixed; melted`
+405	511	REL	`were mixed; melted`
+268	398	REL	`was poured; cooled`
+398	268	REL	`was poured; cooled`
+426	68	REL	`staining; showed`
+425	234	REL	`staining; implanted`
+428	247	REL	`indicated; compared`
+384	94	REL	`modulating; facilitating`
+72	63	REL	`may restore; prevent`
+512	63	REL	`may restore; prevent`
+50	63	REL	`may restore; prevent`
+25	251	REL	`to enter; initiate`
+25	20	REL	`to enter; initiate`
+432	1	REL	`were extracted to explore`
+1	43	REL	`may serve; predicting`
+1	513	REL	`may serve; predicting`
+1	114	REL	`appeared; estimate`
+1	106	REL	`appeared; estimate`
+1	103	REL	`appeared; estimate`
+1	104	REL	`appeared; estimate`
+0	45	REL	`was shown; may play`
+1	0	REL	`was shown; may play`
+1	45	REL	`was shown; may play`
+1	120	REL	`shows; may act`
+125	120	REL	`shows; may act`
+122	120	REL	`shows; may act`
+141	444	REL	`was achieved; led to`
+1	514	REL	`have been described; including`
+130	1	REL	`resulted; circulating`
+130	36	REL	`resulted; circulating`
+130	168	REL	`resulted; circulating`
+168	1	REL	`resulted; circulating`
+168	36	REL	`resulted; circulating`
+168	130	REL	`resulted; circulating`
+1	130	REL	`showed; leading`
+36	130	REL	`showed; leading`
+36	1	REL	`showed; indicating`
+1	168	REL	`showed; indicating`
+1	168	REL	`showed; leading`
+36	168	REL	`showed; indicating`
+36	168	REL	`showed; leading`
+1	130	REL	`plays; facilitating`
+1	168	REL	`plays; facilitating`
+130	1	REL	`fell; compared`
+130	1	REL	`comparing; fasted`
+130	36	REL	`fell; compared`
+130	36	REL	`comparing; fasted`
+168	1	REL	`fell; compared`
+168	1	REL	`comparing; fasted`
+168	36	REL	`fell; compared`
+168	36	REL	`comparing; fasted`
+1	1	REL	`conducted to evaluate`
+1	169	REL	`conducted to evaluate`
+130	1	REL	`conducted to evaluate`
+130	169	REL	`conducted to evaluate`
+168	1	REL	`conducted to evaluate`
+168	169	REL	`conducted to evaluate`
+147	130	REL	`appeared to be suppressed`
+1	130	REL	`appeared to be suppressed`
+36	130	REL	`appeared to be suppressed`
+1	36	REL	`had elevated fasting; compared`
+168	515	REL	`fluxed; is converted to`
+168	516	REL	`fluxed; is converted to`
+161	225	REL	`mitigate; damage`
+161	275	REL	`mitigate; damage`
+130	225	REL	`mitigate; damage`
+130	275	REL	`mitigate; damage`
+485	486	REL	`fermented; resulted`
+349	517	REL	`have been shown to have`
+349	518	REL	`have been shown to have`
+45	519	REL	`include stunting`
+520	289	REL	`has to be interpreted; owing`
+290	289	REL	`has to be interpreted; owing`
+208	289	REL	`has to be interpreted; owing`
+1	0	REL	`made; implying; screening`
+1	45	REL	`made; implying; screening`
+521	196	REL	`showed; had; influencing`
+521	522	REL	`showed; had; influencing`
+521	111	REL	`showed; had; influencing`
+1	523	REL	`indicate; might inhibit`
+13	26	REL	`might inhibit; prevents`
+13	1	REL	`might inhibit; prevents`
+50	524	REL	`was taped; sputtered`
+72	524	REL	`was taped; sputtered`
+86	50	REL	`provides; to incorporate`
+86	62	REL	`provides; to incorporate`
+1	319	REL	`played; correlated`
+1	120	REL	`suggests; may act`
+1	271	REL	`suggests; may act`
+125	120	REL	`suggests; may act`
+125	271	REL	`suggests; may act`
+122	120	REL	`suggests; may act`
+122	271	REL	`suggests; may act`
+52	441	REL	`exhibited; had`
+1	525	REL	`prevents; ameliorates`
+1	165	REL	`prevents; ameliorates`
+130	168	REL	`fell; were observed`
+168	130	REL	`fell; were observed`
+1	526	REL	`exhibited; including`
+1	527	REL	`exhibited; including`
+1	528	REL	`exhibited; including`
+1	529	REL	`exhibited; including`
+36	526	REL	`exhibited; including`
+36	527	REL	`exhibited; including`
+36	528	REL	`exhibited; including`
+36	529	REL	`exhibited; including`
+1	36	REL	`prevents; observed`
+176	168	REL	`catalyzes; providing`
+176	160	REL	`catalyzes; providing`
+1	165	REL	`had; to ameliorate`
+1	177	REL	`had; to ameliorate`
+331	461	REL	`transfected; were exposed`
+45	530	REL	`was conducted; following`
+45	531	REL	`was conducted; following`
+239	240	REL	`is rising; considered`
+306	156	REL	`followed; leading`
+360	156	REL	`followed; leading`
+532	210	REL	`were observed; extracts`
+533	210	REL	`were observed; extracts`
+534	206	REL	`were identified; including`
+534	535	REL	`were identified; including`
+534	263	REL	`were identified; including`
+212	536	REL	`was not predicted to be; highlighting; to act`
+537	376	REL	`were treated; lysate; was extracted`
+0	1	REL	`had; were not utilized; investigating`
+264	132	REL	`remained; were oxidized; mashing`
+210	538	REL	`had; prepared; followed`
+210	380	REL	`had; prepared; followed`
+122	138	REL	`was shown to be co-expressed; showed; to be`
+1	138	REL	`was shown to be co-expressed; showed; to be`
+1	156	REL	`located`
+539	156	REL	`located`
+22	25	REL	`reported`
+1	25	REL	`reported`
+540	25	REL	`reported`
+541	25	REL	`reported`
+542	25	REL	`reported`
+543	25	REL	`reported`
+1	25	REL	`was involved`
+1	109	REL	`was involved`
+1	25	REL	`has been reported to mediate`
+0	0	REL	`databases`
+219	0	REL	`databases`
+544	45	REL	`embedded`
+544	308	REL	`embedded`
+537	545	REL	`were treated`
+537	13	REL	`were treated`
+0	40	REL	`showed`
+1	40	REL	`showed`
+391	1	REL	`locates`
+391	546	REL	`locates`
+0	0	REL	`were divided`
+0	45	REL	`were divided`
+0	1	REL	`were divided`
+45	0	REL	`were divided`
+45	45	REL	`were divided`
+45	1	REL	`were divided`
+547	244	REL	`showed`
+1	548	REL	`was monitored`
+1	549	REL	`was monitored`
+1	550	REL	`was monitored`
+1	551	REL	`was monitored`
+46	548	REL	`was monitored`
+46	549	REL	`was monitored`
+46	550	REL	`was monitored`
+46	551	REL	`was monitored`
+1	13	REL	`shows`
+13	13	REL	`shows`
+13	13	REL	`Quantitated`
+13	1	REL	`Quantitated`
+552	553	REL	`suffer`
+552	44	REL	`suffer`
+552	25	REL	`suffer`
+26	45	REL	`noticed; compared`
+26	267	REL	`noticed; compared`
+45	267	REL	`noticed; compared`
+244	548	REL	`showed; was monitored`
+244	550	REL	`showed; was monitored`
+37	50	REL	`confirmed`
+37	72	REL	`confirmed`
+312	50	REL	`confirmed`
+312	72	REL	`confirmed`
+50	50	REL	`confirmed`
+50	72	REL	`confirmed`
+554	50	REL	`confirmed`
+554	72	REL	`confirmed`
+555	50	REL	`confirmed`
+555	72	REL	`confirmed`
+94	556	REL	`confirming`
+94	57	REL	`confirming`
+94	56	REL	`confirming`
+50	55	REL	`showed`
+268	557	REL	`repair`
+268	18	REL	`repair`
+268	558	REL	`repair`
+268	559	REL	`repair; can be doped`
+268	560	REL	`repair; can be doped`
+268	561	REL	`repair; can be doped`
+268	562	REL	`repair; can be doped`
+268	563	REL	`repair; can be doped`
+268	57	REL	`repair; can be doped`
+268	56	REL	`repair; can be doped`
+50	384	REL	`could repair`
+72	384	REL	`could repair`
+564	565	REL	`was prepared`
+249	565	REL	`was prepared`
+50	566	REL	`shaken`
+72	566	REL	`shaken`
+249	566	REL	`shaken`
+50	567	REL	`was implanted`
+50	482	REL	`was implanted`
+72	567	REL	`was implanted`
+72	482	REL	`was implanted`
+68	71	REL	`showed`
+62	50	REL	`could lower`
+62	72	REL	`could lower`
+559	50	REL	`could lower`
+559	72	REL	`could lower`
+568	569	REL	`emerged`
+352	569	REL	`emerged`
+570	570	REL	`attributed`
+570	571	REL	`attributed`
+571	570	REL	`attributed`
+571	571	REL	`attributed`
+352	568	REL	`shifted`
+352	146	REL	`shifted`
+569	568	REL	`shifted`
+569	146	REL	`shifted`
+568	568	REL	`shifted`
+568	146	REL	`shifted`
+572	225	REL	`+ impeded`
+572	73	REL	`+ impeded`
+382	573	REL	`was evaluated`
+382	265	REL	`was evaluated`
+382	265	REL	`were cultured; showed`
+249	89	REL	`cultured; showed`
+249	92	REL	`cultured; showed`
+249	90	REL	`cultured; showed`
+249	91	REL	`cultured; showed`
+50	89	REL	`showed`
+50	92	REL	`showed`
+50	90	REL	`showed`
+50	91	REL	`showed`
+72	89	REL	`showed`
+72	92	REL	`showed`
+72	90	REL	`showed`
+72	91	REL	`showed`
+249	50	REL	`cultured`
+249	72	REL	`cultured`
+82	69	REL	`compared`
+82	250	REL	`compared`
+53	69	REL	`compared`
+53	250	REL	`compared`
+68	69	REL	`compared`
+68	250	REL	`compared`
+51	69	REL	`compared`
+51	250	REL	`compared`
+68	51	REL	`showed`
+68	53	REL	`showed`
+68	50	REL	`showed; meant`
+68	62	REL	`showed; meant`
+50	246	REL	`showed`
+72	246	REL	`showed`
+249	574	REL	`showed`
+247	574	REL	`showed`
+247	575	REL	`showed`
+249	50	REL	`showed`
+249	72	REL	`showed`
+576	50	REL	`showed`
+576	72	REL	`showed`
+68	56	REL	`showed`
+426	68	REL	`showed`
+94	249	REL	`was calculated`
+94	69	REL	`was calculated`
+94	82	REL	`was calculated`
+94	68	REL	`was calculated`
+94	250	REL	`was calculated`
+94	426	REL	`was calculated`
+68	577	REL	`possessed`
+82	577	REL	`possessed`
+68	427	REL	`showed`
+82	427	REL	`showed`
+37	50	REL	`implanted`
+37	72	REL	`implanted`
+37	249	REL	`implanted`
+578	50	REL	`implanted`
+578	72	REL	`implanted`
+578	249	REL	`implanted`
+425	50	REL	`implanted`
+425	72	REL	`implanted`
+425	249	REL	`implanted`
+247	579	REL	`showed`
+247	573	REL	`showed`
+85	225	REL	`is achieved`
+85	580	REL	`is achieved`
+85	146	REL	`is achieved`
+213	78	REL	`known`
+52	78	REL	`known`
+54	78	REL	`known`
+72	384	REL	`repaired`
+50	384	REL	`repaired`
+94	94	REL	`presented`
+94	581	REL	`presented`
+94	582	REL	`presented`
+94	583	REL	`presented; presented`
+52	53	REL	`implanted`
+52	51	REL	`implanted`
+54	53	REL	`implanted`
+54	51	REL	`implanted`
+78	53	REL	`implanted`
+78	51	REL	`implanted`
+79	53	REL	`implanted`
+79	51	REL	`implanted`
+50	584	REL	`showed; did not show`
+50	18	REL	`showed; did not show`
+50	63	REL	`showed; did not show`
+50	417	REL	`showed; did not show`
+72	584	REL	`showed; did not show`
+72	18	REL	`showed; did not show`
+72	63	REL	`showed; did not show`
+72	417	REL	`showed; did not show`
+312	584	REL	`showed; did not show`
+312	18	REL	`showed; did not show`
+312	63	REL	`showed; did not show`
+312	417	REL	`showed; did not show`
+50	312	REL	`were implanted to evaluate; to treat`
+72	312	REL	`were implanted to evaluate; to treat`
+249	312	REL	`were implanted to evaluate; to treat`
+384	574	REL	`showed`
+384	577	REL	`showed`
+247	577	REL	`showed`
+50	247	REL	`showed; compared`
+50	249	REL	`showed; compared`
+72	247	REL	`showed; compared`
+72	249	REL	`showed; compared`
+50	585	REL	`shows; to treat`
+247	585	REL	`shows; to treat`
+72	585	REL	`shows; to treat`
+50	384	REL	`regenerated; repairing`
+72	384	REL	`regenerated; repairing`
+586	50	REL	`showed`
+586	554	REL	`showed`
+72	587	REL	`may restore`
+512	587	REL	`may restore`
+50	587	REL	`may restore`
+25	81	REL	`can allow; to enter`
+25	81	REL	`to enter`
+25	81	REL	`entering`
+26	588	REL	`reported to be involved`
+26	18	REL	`reported to be involved`
+26	589	REL	`reported to be involved`
+26	386	REL	`reported to be involved`
+26	590	REL	`reported to be involved`
+26	591	REL	`reported to be involved`
+1	588	REL	`reported to be involved`
+1	18	REL	`reported to be involved`
+1	589	REL	`reported to be involved`
+1	386	REL	`reported to be involved`
+1	590	REL	`reported to be involved`
+1	591	REL	`reported to be involved`
+592	45	REL	`were collected`
+593	45	REL	`were collected`
+594	318	REL	`can influence`
+1	0	REL	`were investigated; were`
+1	595	REL	`was explored`
+45	595	REL	`was explored`
+108	0	REL	`were investigated`
+596	0	REL	`were investigated`
+597	0	REL	`were investigated`
+598	0	REL	`were investigated`
+599	0	REL	`were investigated`
+600	0	REL	`were investigated`
+1	601	REL	`showed`
+1	602	REL	`showed`
+1	245	REL	`showed`
+1	603	REL	`showed`
+1	103	REL	`showed`
+1	114	REL	`showed`
+1	109	REL	`showed`
+1	604	REL	`showed`
+1	0	REL	`showed`
+1	605	REL	`showed`
+1	0	REL	`was explored`
+1	107	REL	`served`
+1	118	REL	`served`
+1	45	REL	`served`
+1	1	REL	`discussed`
+45	1	REL	`discussed`
+0	1	REL	`discussed`
+1	1	REL	`be applied`
+1	0	REL	`be applied`
+1	45	REL	`be applied`
+120	45	REL	`means; can vary`
+134	301	REL	`mediate`
+0	133	REL	`rely`
+1	606	REL	`is known`
+607	606	REL	`is known`
+271	606	REL	`studied`
+441	608	REL	`were grown`
+440	608	REL	`were grown`
+122	122	REL	`analysed`
+122	441	REL	`analysed`
+122	1	REL	`analysed`
+122	440	REL	`analysed`
+1	122	REL	`analysed`
+1	441	REL	`analysed`
+1	1	REL	`analysed`
+1	440	REL	`analysed`
+122	45	REL	`attempted to analyse`
+122	121	REL	`attempted to analyse`
+122	122	REL	`attempted to analyse`
+1	45	REL	`attempted to analyse`
+1	121	REL	`attempted to analyse`
+1	122	REL	`attempted to analyse`
+1	123	REL	`alleles`
+1	124	REL	`alleles`
+1	609	REL	`alleles`
+1	137	REL	`was studied`
+1	610	REL	`was studied`
+1	611	REL	`was studied`
+122	271	REL	`to study`
+122	122	REL	`to study`
+122	1	REL	`to study`
+122	125	REL	`to study`
+1	271	REL	`to study`
+1	122	REL	`to study`
+1	1	REL	`to study`
+1	125	REL	`to study`
+125	271	REL	`to study`
+125	122	REL	`to study`
+125	1	REL	`to study`
+125	125	REL	`to study`
+52	120	REL	`may confirm`
+52	1	REL	`may confirm`
+52	52	REL	`may confirm`
+1	120	REL	`may confirm`
+1	1	REL	`may confirm`
+1	52	REL	`may confirm`
+612	120	REL	`may confirm`
+612	1	REL	`may confirm`
+612	52	REL	`may confirm`
+134	120	REL	`may confirm`
+134	1	REL	`may confirm`
+134	52	REL	`may confirm`
+122	45	REL	`conferred`
+45	45	REL	`conferred`
+1	45	REL	`conferred`
+613	45	REL	`conferred`
+45	614	REL	`has analysed`
+0	615	REL	`employ`
+122	615	REL	`employ`
+616	617	REL	`stays`
+1	122	REL	`differs`
+45	123	REL	`alleles`
+45	618	REL	`alleles`
+1	618	REL	`alleles`
+141	1	REL	`was achieved`
+169	619	REL	`involves`
+169	620	REL	`involves`
+169	587	REL	`involves`
+169	160	REL	`involves`
+621	1	REL	`did not appear to differ`
+621	1	REL	`did not appear to differ; compared`
+621	36	REL	`did not appear to differ`
+621	36	REL	`did not appear to differ; compared`
+1	130	REL	`showed`
+36	130	REL	`showed`
+1	36	REL	`showed; were seen`
+36	1	REL	`showed; were seen`
+1	168	REL	`showed`
+36	168	REL	`showed`
+160	460	REL	`are measured; evaluated`
+160	130	REL	`are measured; evaluated`
+160	168	REL	`are measured; evaluated`
+160	1	REL	`are measured; evaluated`
+151	130	REL	`labeled`
+151	168	REL	`labeled`
+169	1	REL	`comparing`
+169	36	REL	`comparing`
+1	1	REL	`comparing`
+1	36	REL	`comparing`
+168	1	REL	`compared`
+1	1	REL	`compared`
+36	1	REL	`compared`
+130	1	REL	`compared`
+169	168	REL	`can be mediated`
+169	622	REL	`can be mediated`
+169	623	REL	`can be mediated`
+169	160	REL	`can be mediated`
+169	155	REL	`can be mediated`
+163	1	REL	`restored`
+163	147	REL	`restored`
+156	1	REL	`showed`
+156	36	REL	`showed`
+156	156	REL	`showed`
+229	1	REL	`showed`
+229	36	REL	`showed`
+229	156	REL	`showed`
+155	1	REL	`showed`
+155	36	REL	`showed`
+155	156	REL	`showed`
+624	1	REL	`showed`
+624	36	REL	`showed`
+624	156	REL	`showed`
+625	227	REL	`are processed`
+1	626	REL	`showed`
+1	627	REL	`showed`
+36	626	REL	`showed`
+36	627	REL	`showed`
+1	628	REL	`showed; encoding`
+36	628	REL	`showed; encoding`
+1	159	REL	`showed; involved`
+36	159	REL	`showed; involved`
+629	36	REL	`compared`
+36	36	REL	`compared`
+1	1	REL	`appeared to be`
+1	36	REL	`appeared to be`
+36	1	REL	`appeared to be`
+36	36	REL	`appeared to be`
+147	1	REL	`appeared to be`
+147	36	REL	`appeared to be`
+630	448	REL	`assess`
+630	1	REL	`assess`
+631	448	REL	`assess`
+631	1	REL	`assess`
+1	177	REL	`are rendered`
+36	177	REL	`are rendered`
+36	1	REL	`possessed`
+36	506	REL	`possessed`
+36	36	REL	`possessed`
+289	1	REL	`possessed`
+289	506	REL	`possessed`
+289	36	REL	`possessed`
+632	156	REL	`elicited`
+632	333	REL	`elicited`
+147	1	REL	`assess`
+147	168	REL	`assess`
+168	1	REL	`assess`
+168	168	REL	`assess`
+168	169	REL	`serves`
+515	169	REL	`is transferred`
+516	169	REL	`is transferred`
+111	45	REL	`to treat`
+36	177	REL	`do not develop`
+141	177	REL	`do not develop`
+215	177	REL	`do not develop`
+36	130	REL	`do not develop; is mediated`
+36	111	REL	`do not develop; is mediated`
+141	130	REL	`do not develop; is mediated`
+141	111	REL	`do not develop; is mediated`
+215	130	REL	`do not develop; is mediated`
+215	111	REL	`do not develop; is mediated`
+307	544	REL	`embedded`
+633	625	REL	`frozen`
+147	147	REL	`consisting`
+147	478	REL	`consisting`
+333	163	REL	`consisting`
+333	461	REL	`consisting`
+333	147	REL	`consisting`
+333	634	REL	`consisting`
+333	635	REL	`consisting`
+147	465	REL	`were measured`
+636	159	REL	`are involved`
+637	159	REL	`are involved`
+182	638	REL	`possesses`
+182	639	REL	`show`
+182	640	REL	`show`
+182	641	REL	`show`
+642	643	REL	`connected; involves`
+642	644	REL	`connected; involves`
+156	132	REL	`would spread`
+37	629	REL	`was calculated to be`
+645	646	REL	`showing`
+461	0	REL	`treating`
+647	83	REL	`conferred`
+648	83	REL	`conferred`
+261	274	REL	`remained`
+261	146	REL	`remained`
+492	649	REL	`investigating`
+492	650	REL	`investigating`
+492	651	REL	`investigating`
+492	652	REL	`investigating`
+495	649	REL	`investigating`
+495	650	REL	`investigating`
+495	651	REL	`investigating`
+495	652	REL	`investigating`
+287	653	REL	`known`
+654	31	REL	`allows`
+655	159	REL	`reported`
+306	533	REL	`consisted`
+306	656	REL	`consisted`
+319	319	REL	`were evaluated`
+319	208	REL	`compared`
+319	156	REL	`compared; see`
+263	263	REL	`see`
+263	657	REL	`see`
+263	199	REL	`are known to be`
+262	262	REL	`occurs`
+262	295	REL	`occurs`
+262	296	REL	`occurs`
+262	297	REL	`occurs`
+658	262	REL	`occurs`
+658	295	REL	`occurs`
+658	296	REL	`occurs`
+658	297	REL	`occurs`
+659	263	REL	`was fractionated`
+263	199	REL	`originate`
+208	208	REL	`showing`
+353	353	REL	`compared`
+569	353	REL	`compared`
+520	660	REL	`are reported to be`
+156	660	REL	`are reported to be`
+200	156	REL	`influenced`
+263	661	REL	`seem to be; should be focused`
+263	211	REL	`seem to be; should be focused`
+241	661	REL	`should be focused`
+241	211	REL	`should be focused`
+156	661	REL	`should be focused`
+156	211	REL	`should be focused`
+211	661	REL	`should be focused`
+211	211	REL	`should be focused`
+492	662	REL	`investigating`
+495	662	REL	`investigating`
+212	212	REL	`showed`
+212	156	REL	`showed`
+663	130	REL	`is thought to be; transporting`
+42	130	REL	`is thought to be; transporting`
+1	156	REL	`compensate; promoting`
+160	1	REL	`must be coordinated; include`
+160	664	REL	`must be coordinated; include`
+169	1	REL	`must be coordinated; include`
+169	664	REL	`must be coordinated; include`
+169	665	REL	`were fasted; being administered`
+36	665	REL	`were fasted; being administered`
+1	455	REL	`is compensated; provide`
+1	156	REL	`is compensated; provide`
+419	666	REL	`was redissolved; flew`
+432	1	REL	`were extracted to explore; verify`
+380	381	REL	`was performed to ensure`
+667	427	REL	`determined; staining; determined`
+248	427	REL	`determined; staining; determined`
+314	427	REL	`determined; staining; determined`
+667	426	REL	`determined; appeared; appeared`
+248	426	REL	`determined; appeared; appeared`
+314	426	REL	`determined; appeared; appeared`
+13	25	REL	`demonstrating; may have`
+14	25	REL	`demonstrating; may have`
+1	25	REL	`demonstrating; may have`
+1	0	REL	`made; to differentiate`
+1	114	REL	`made; to differentiate`
+1	104	REL	`made; to differentiate`
+1	168	REL	`were washed; supplemented`
+1	668	REL	`were washed; supplemented`
+669	670	REL	`were solubilized; was incubated`
+274	146	REL	`formulated; demonstrated`
+274	156	REL	`did not differ; was characterized; having`
+274	146	REL	`did not differ; was characterized; having`
+13	671	REL	`reported to inhibit`
+13	0	REL	`reported to inhibit`
+672	671	REL	`reported to inhibit`
+672	0	REL	`reported to inhibit`
+645	268	REL	`showed; accelerated`
+645	50	REL	`showed; accelerated`
+645	673	REL	`showed; accelerated`
+55	249	REL	`were incorporated compared`
+50	249	REL	`were incorporated compared`
+1	25	REL	`serves; correlated`
+0	110	REL	`can be seen; was identified`
+0	107	REL	`can be seen; was identified`
+0	115	REL	`can be seen; was identified`
+1	118	REL	`served; represented`
+1	106	REL	`served; represented`
+1	244	REL	`served; represented`
+1	114	REL	`showed; identifying`
+1	0	REL	`showed; identifying`
+52	376	REL	`correlated; measured`
+52	122	REL	`correlated; measured`
+160	165	REL	`have been shown to ameliorate`
+169	165	REL	`have been shown to ameliorate`
+152	674	REL	`may contribute to; are mediated`
+152	462	REL	`may contribute to; are mediated`
+625	227	REL	`are processed; examined`
+1	239	REL	`improved; signaling`
+1	36	REL	`improved; signaling`
+307	268	REL	`sectioned; transferred`
+331	141	REL	`transfected; silencing`
+182	225	REL	`co; improved`
+306	675	REL	`followed; disrupts`
+360	675	REL	`followed; disrupts`
+676	156	REL	`were identified; are known to be`
+358	199	REL	`have not been identified; were reported to be`
+1	0	REL	`showed; was; related`
+1	108	REL	`showed; was; related`
+1	0	REL	`made; to distinguish`
+0	45	REL	`had; to distinguish`
+1	0	REL	`had; to distinguish`
+1	45	REL	`had; to distinguish`
+1	96	REL	`is; related`
+1	432	REL	`is; related`
+225	306	REL	`was; fold`
+20	25	REL	`has been questioned; has been reported to mediate`
+267	25	REL	`has been questioned; has been reported to mediate`
+1	25	REL	`has been questioned; has been reported to mediate`
+46	46	REL	`appear to be distributed`
+46	1	REL	`appear to be distributed`
+1	46	REL	`appear to be distributed`
+1	1	REL	`appear to be distributed`
+423	69	REL	`substituted; doping`
+121	291	REL	`shows; normalized`
+677	678	REL	`is performed; are facilitated`
+677	1	REL	`is performed; are facilitated`
+679	678	REL	`is performed; are facilitated`
+679	1	REL	`is performed; are facilitated`
+130	680	REL	`could potentiate; to treat`
+168	680	REL	`could potentiate; to treat`
+1	680	REL	`could potentiate; to treat`
+151	459	REL	`labeled; intermediates`
+151	456	REL	`labeled; intermediates`
+151	458	REL	`labeled; intermediates`
+169	168	REL	`can be mediated; may predominate`
+1	385	REL	`correlated`
+1	45	REL	`correlated`
+391	220	REL	`were identified`
+391	271	REL	`were identified`
+1	220	REL	`were identified`
+1	271	REL	`were identified`
+219	220	REL	`were identified`
+219	271	REL	`were identified`
+1	601	REL	`inhibited`
+1	681	REL	`identified`
+1	682	REL	`identified`
+1	683	REL	`identified`
+1	20	REL	`identified`
+1	80	REL	`inhibited`
+1	25	REL	`inhibited`
+33	684	REL	`were purchased`
+29	684	REL	`were purchased`
+685	684	REL	`were purchased`
+686	291	REL	`catalog`
+13	687	REL	`improved`
+13	1	REL	`improved`
+13	523	REL	`might inhibit`
+1	45	REL	`correlated; correlated`
+1	1	REL	`correlated`
+25	1	REL	`inhibiting`
+247	50	REL	`exhibited`
+247	55	REL	`exhibited`
+688	689	REL	`intensify`
+62	55	REL	`incorporated`
+37	57	REL	`to observe`
+37	56	REL	`to observe`
+690	57	REL	`to observe`
+690	56	REL	`to observe`
+586	691	REL	`to observe`
+50	85	REL	`was comprised`
+50	268	REL	`was comprised`
+72	85	REL	`was comprised`
+72	268	REL	`was comprised`
+37	37	REL	`were sacrificed`
+312	312	REL	`were sacrificed`
+692	427	REL	`was determined`
+559	268	REL	`accelerated`
+559	50	REL	`accelerated`
+559	673	REL	`accelerated`
+561	268	REL	`accelerated`
+561	50	REL	`accelerated`
+561	673	REL	`accelerated`
+73	225	REL	`accelerated`
+73	70	REL	`accelerated`
+223	68	REL	`were analyzed`
+68	53	REL	`exhibited`
+68	51	REL	`exhibited`
+82	53	REL	`exhibited`
+82	51	REL	`exhibited`
+50	693	REL	`were analyzed`
+72	693	REL	`were analyzed`
+82	92	REL	`exhibited`
+82	80	REL	`exhibited`
+82	91	REL	`exhibited`
+82	89	REL	`exhibited`
+68	92	REL	`exhibited`
+68	80	REL	`exhibited`
+68	91	REL	`exhibited`
+68	89	REL	`exhibited`
+667	426	REL	`determined`
+248	426	REL	`determined`
+314	426	REL	`determined`
+26	45	REL	`improve`
+26	26	REL	`improve`
+26	0	REL	`improve`
+18	45	REL	`improve`
+18	26	REL	`improve`
+18	0	REL	`improve`
+1	271	REL	`contributing`
+1	1	REL	`contributing`
+1	0	REL	`contributing`
+0	271	REL	`contributing`
+0	1	REL	`contributing`
+0	0	REL	`contributing`
+0	317	REL	`were downloaded`
+45	317	REL	`were downloaded`
+96	289	REL	`participate`
+96	108	REL	`participate`
+96	132	REL	`participate`
+1	0	REL	`identifying`
+1	114	REL	`was observed`
+1	390	REL	`was observed`
+1	694	REL	`was observed`
+1	105	REL	`was observed`
+1	695	REL	`was observed`
+1	696	REL	`was observed`
+1	0	REL	`was observed`
+1	697	REL	`was observed`
+1	110	REL	`was observed`
+1	698	REL	`was observed`
+1	316	REL	`was observed`
+1	308	REL	`was observed`
+1	107	REL	`was observed`
+1	699	REL	`was observed`
+1	700	REL	`was observed`
+1	110	REL	`were observed`
+1	45	REL	`were observed`
+1	110	REL	`was identified`
+1	107	REL	`was identified`
+1	115	REL	`was identified`
+1	45	REL	`be observed`
+1	45	REL	`was observed`
+1	104	REL	`was observed`
+1	107	REL	`represented`
+1	45	REL	`represented`
+1	0	REL	`identify`
+701	1	REL	`correlated`
+702	1	REL	`correlated`
+321	1	REL	`correlated`
+1	0	REL	`correlated`
+244	107	REL	`correlated`
+244	106	REL	`correlated`
+1	107	REL	`correlated`
+1	106	REL	`correlated`
+703	18	REL	`may contribute`
+703	704	REL	`may contribute`
+1	0	REL	`was identified`
+1	1	REL	`represented`
+1	103	REL	`observed`
+1	104	REL	`observed`
+1	102	REL	`observed`
+320	0	REL	`suggested`
+320	1	REL	`suggested`
+1	0	REL	`suggested`
+1	1	REL	`suggested`
+121	0	REL	`was observed`
+45	0	REL	`diagnosed`
+45	26	REL	`diagnosed`
+45	1	REL	`identify`
+45	45	REL	`identify`
+1	120	REL	`correlated`
+1	52	REL	`correlated`
+1	137	REL	`observed`
+125	137	REL	`observed`
+705	137	REL	`observed`
+52	440	REL	`exhibited`
+52	1	REL	`correlated`
+1	122	REL	`does correlate`
+445	1	REL	`were ameliorated`
+445	36	REL	`were ameliorated`
+177	1	REL	`were ameliorated`
+177	36	REL	`were ameliorated`
+1	165	REL	`improved`
+1	18	REL	`may contribute`
+130	1	REL	`were observed`
+168	1	REL	`were observed`
+151	1	REL	`were observed`
+130	168	REL	`were observed; suggesting`
+168	130	REL	`were observed; suggesting`
+151	130	REL	`were observed; suggesting`
+151	168	REL	`were observed; suggesting`
+1	169	REL	`might contribute to`
+152	169	REL	`may contribute to`
+152	706	REL	`may contribute to`
+152	229	REL	`may contribute to`
+156	169	REL	`following`
+156	1	REL	`following`
+156	36	REL	`following`
+1	227	REL	`exhibited`
+36	227	REL	`exhibited`
+1	162	REL	`exhibited`
+1	333	REL	`exhibited`
+1	506	REL	`exhibited`
+36	162	REL	`exhibited`
+36	333	REL	`exhibited`
+36	506	REL	`exhibited`
+1	147	REL	`exhibited`
+36	147	REL	`exhibited`
+147	36	REL	`were observed`
+147	1	REL	`were observed`
+36	707	REL	`exhibited`
+1	707	REL	`exhibited`
+36	175	REL	`exhibited; can be observed`
+36	708	REL	`exhibited; can be observed`
+1	175	REL	`exhibited; can be observed`
+1	708	REL	`exhibited; can be observed`
+1	111	REL	`positioned`
+176	130	REL	`catalyzes`
+176	168	REL	`catalyzes`
+709	168	REL	`may overlap`
+710	168	REL	`may overlap`
+141	168	REL	`may overlap`
+1	169	REL	`exhibited`
+1	168	REL	`exhibited`
+1	130	REL	`exhibited`
+36	169	REL	`exhibited`
+36	168	REL	`exhibited`
+36	130	REL	`exhibited`
+141	130	REL	`exhibits`
+1	448	REL	`improved`
+161	177	REL	`may contribute`
+1	177	REL	`may contribute`
+36	177	REL	`may contribute`
+36	66	REL	`followed`
+141	66	REL	`followed`
+36	36	REL	`followed`
+141	36	REL	`followed`
+711	712	REL	`dehydrated`
+713	460	REL	`to determine`
+156	1	REL	`are exhibited`
+1	1	REL	`are exhibited`
+714	715	REL	`was observed`
+716	716	REL	`concluded`
+717	718	REL	`stabilized`
+717	483	REL	`stabilized`
+717	182	REL	`stabilized`
+719	718	REL	`stabilized`
+719	483	REL	`stabilized`
+719	182	REL	`stabilized`
+720	182	REL	`could exhibit; following`
+146	201	REL	`is considered`
+721	721	REL	`includes elongated`
+210	380	REL	`followed`
+298	159	REL	`comprising`
+298	275	REL	`comprising`
+306	306	REL	`followed`
+360	306	REL	`followed`
+210	210	REL	`followed`
+722	723	REL	`was purchased`
+722	722	REL	`was purchased`
+724	380	REL	`followed`
+200	380	REL	`followed`
+208	209	REL	`was determined`
+319	156	REL	`was observed`
+263	199	REL	`were identified`
+207	199	REL	`were identified`
+725	358	REL	`observed`
+263	208	REL	`contribute`
+520	289	REL	`was determined`
+156	726	REL	`were observed`
+156	727	REL	`were observed`
+156	520	REL	`were observed`
+298	661	REL	`does not contribute`
+298	147	REL	`does not contribute`
+298	211	REL	`does not contribute`
+298	728	REL	`followed`
+520	156	REL	`accounted`
+263	211	REL	`might contribute`
+22	26	REL	`reported; highlighting`
+1	26	REL	`reported; highlighting`
+540	26	REL	`reported; highlighting`
+541	26	REL	`reported; highlighting`
+542	26	REL	`reported; highlighting`
+543	26	REL	`reported; highlighting`
+72	315	REL	`showed; corresponding`
+50	315	REL	`showed; corresponding`
+441	729	REL	`were grown; supplemented`
+441	440	REL	`were grown; supplemented`
+440	729	REL	`were grown; supplemented`
+272	1	REL	`understood; is believed; can dimerize`
+272	134	REL	`understood; is believed; can dimerize`
+564	730	REL	`was prepared; China)blend`
+249	730	REL	`was prepared; China)blend`
+45	125	REL	`alleles; were characterized`
+45	126	REL	`alleles; were characterized`
+1	125	REL	`alleles; were characterized`
+1	126	REL	`alleles; were characterized`
+156	289	REL	`were quantified; was determined`
+209	306	REL	`observed not; extracts; was; may be; used`
+302	303	REL	`emits; is; to retain`
+1	0	REL	`demonstrated; identifying`
+0	18	REL	`have demonstrated; may contribute`
+263	64	REL	`were identified; demonstrates`
+263	431	REL	`were identified; demonstrates`
+207	64	REL	`were identified; demonstrates`
+207	431	REL	`were identified; demonstrates`
+46	0	REL	`were performed`
+1	0	REL	`were performed`
+376	13	REL	`was performed`
+376	1	REL	`was performed`
+559	268	REL	`substituted`
+559	269	REL	`substituted`
+423	731	REL	`substituted`
+423	74	REL	`substituted`
+423	732	REL	`substituted`
+733	733	REL	`supervised`
+734	735	REL	`precipitate`
+275	56	REL	`transports`
+704	1	REL	`recognizes`
+1	0	REL	`was performed`
+0	0	REL	`was performed`
+1	291	REL	`were normalized`
+1	736	REL	`were normalized`
+125	291	REL	`were normalized`
+125	736	REL	`were normalized`
+52	291	REL	`were normalized`
+52	736	REL	`were normalized`
+318	291	REL	`were normalized`
+318	736	REL	`were normalized`
+737	737	REL	`were performed`
+1	738	REL	`were visualized`
+336	739	REL	`was performed`
+122	740	REL	`subtypes`
+125	677	REL	`can transport`
+1	291	REL	`normalized`
+122	291	REL	`normalized`
+632	159	REL	`was compensated`
+632	156	REL	`was compensated`
+632	155	REL	`was compensated`
+632	152	REL	`was compensated`
+632	160	REL	`was compensated`
+160	459	REL	`intermediates`
+160	456	REL	`intermediates`
+160	458	REL	`intermediates`
+1	169	REL	`compensate`
+331	741	REL	`were performed`
+167	36	REL	`were performed`
+169	36	REL	`were performed`
+1	36	REL	`were performed`
+506	36	REL	`were quantified`
+506	239	REL	`were quantified`
+130	1	REL	`is understood`
+168	1	REL	`is understood`
+155	169	REL	`compensated`
+155	1	REL	`compensated`
+155	36	REL	`compensated`
+152	169	REL	`compensated`
+152	1	REL	`compensated`
+152	36	REL	`compensated`
+156	169	REL	`compensated`
+156	1	REL	`compensated`
+156	36	REL	`compensated`
+168	742	REL	`transported`
+36	36	REL	`were backcrossed`
+1	36	REL	`were backcrossed`
+1	147	REL	`were administered`
+36	147	REL	`were administered`
+147	147	REL	`were administered`
+1	465	REL	`were administered`
+743	465	REL	`were administered`
+36	465	REL	`were administered`
+141	705	REL	`were normalized`
+1	705	REL	`were normalized`
+130	1	REL	`intermediates`
+130	36	REL	`intermediates`
+168	1	REL	`intermediates`
+168	36	REL	`intermediates`
+160	1	REL	`intermediates`
+160	36	REL	`intermediates`
+720	744	REL	`diminishes`
+520	728	REL	`were quantified`
+745	746	REL	`can be considered; are; concerning`
+745	747	REL	`can be considered; are; concerning`
+745	353	REL	`can be considered; are; concerning`
+50	62	REL	`showed; was; owing`
+72	50	REL	`showed; was; owing`
+72	62	REL	`showed; was; owing`
+748	741	REL	`may be; driven; facilitated`
+1	590	REL	`is; including`
+1	749	REL	`is; including`
+1	750	REL	`is; including`
+1	17	REL	`is; including`
+1	751	REL	`is; including`
+1	752	REL	`is; including`
+70	753	REL	`were; leading`
+580	411	REL	`were; to form`
+1	754	REL	`is; belongs`
+677	147	REL	`are; including`
+677	755	REL	`are; including`
+677	156	REL	`are; including`
+130	147	REL	`are; including`
+130	755	REL	`are; including`
+130	156	REL	`are; including`
+168	147	REL	`are; including`
+168	755	REL	`are; including`
+168	156	REL	`are; including`
+200	520	REL	`was; leading`
+1	45	REL	`may be; treating; identifying`
+1	0	REL	`may be; treating; identifying`
+1	0	REL	`was; suggesting; treating`
+1	45	REL	`was; suggesting; treating`
+1	121	REL	`differs; is not; exhibit`
+756	199	REL	`is not; documented; reports`
+520	501	REL	`were identified; were; coeluted`
+18	0	REL	`highlighting`
+18	45	REL	`highlighting`
+18	25	REL	`highlighting`
+18	26	REL	`highlighting`
+18	294	REL	`highlighting`
+757	758	REL	`supplemented`
+68	265	REL	`demonstrated`
+68	573	REL	`demonstrated`
+1	18	REL	`demonstrates`
+1	0	REL	`demonstrates`
+1	1	REL	`corresponding`
+141	1	REL	`highlight`
+141	111	REL	`highlight`
+1	168	REL	`can be circumvented`
+1	152	REL	`can be circumvented`
+1	155	REL	`can be circumvented`
+1	455	REL	`can be circumvented`
+36	1	REL	`were established`
+147	665	REL	`supplemented`
+669	759	REL	`were solubilized`
+669	670	REL	`were solubilized`
+261	760	REL	`highlighting`
+261	761	REL	`highlighting`
+274	274	REL	`been demonstrated`
+762	763	REL	`was; reverse transcribed`
+762	764	REL	`was; reverse transcribed`
+329	763	REL	`was; reverse transcribed`
+329	764	REL	`was; reverse transcribed`
+120	765	REL	`is; is predicted to be located`
+45	766	REL	`include stunting; being`
+68	767	REL	`exhibited; concluding; is`
+1	125	REL	`was characterized`
+45	768	REL	`were characterized`
+45	769	REL	`were characterized`
+501	745	REL	`be distinguished`
+1	26	REL	`is; shows`
+1	0	REL	`is; shows`
+1	25	REL	`is; shows`
+0	552	REL	`are; to become`
+45	552	REL	`are; to become`
+72	770	REL	`was; showing`
+50	770	REL	`was; showing`
+75	577	REL	`were; possessed`
+427	68	REL	`show; is`
+50	384	REL	`is; to treat`
+50	512	REL	`is; to treat`
+72	384	REL	`is; to treat`
+72	512	REL	`is; to treat`
+1	771	REL	`is; may serve`
+1	45	REL	`is; may serve`
+1	0	REL	`is; may serve`
+24	772	REL	`has been; spread`
+26	772	REL	`has been; spread`
+1	282	REL	`is; known`
+1	26	REL	`is; may serve`
+1	18	REL	`is; may serve`
+1	46	REL	`was; possessed`
+1	0	REL	`may be; treating`
+1	0	REL	`is; involved`
+282	0	REL	`is; involved`
+226	305	REL	`is; known`
+226	125	REL	`is; known`
+52	122	REL	`turned; to be`
+1	122	REL	`turned; to be`
+152	1	REL	`was; seen`
+152	36	REL	`was; seen`
+147	1	REL	`was; seen`
+147	36	REL	`was; seen`
+1	36	REL	`was; seen`
+36	1	REL	`was; seen`
+1	773	REL	`is; involved`
+774	775	REL	`reported to be; is`
+207	776	REL	`are; known`
+241	211	REL	`are; were reported to be`
+156	211	REL	`are; were reported to be`
+147	168	REL	`were; seen following`
+36	168	REL	`were; seen following`
+42	1	REL	`was; followed`
+0	45	REL	`to be; determining`
+104	1	REL	`were; suggesting`
+114	1	REL	`were; suggesting`
+1	0	REL	`was; correlated`
+1	114	REL	`was; correlated`
+1	104	REL	`was; correlated`
+1	106	REL	`was; correlated`
+1	103	REL	`was; correlated`
+1	244	REL	`was; correlated`
+1	225	REL	`were; suggesting`
+1	130	REL	`were; suggesting`
+36	225	REL	`were; suggesting`
+36	130	REL	`were; suggesting`
+130	225	REL	`were; suggesting`
+756	199	REL	`is not; documented`
+756	651	REL	`is not; documented`
+236	777	REL	`is; can contribute`
+491	777	REL	`is; can contribute`
+161	36	REL	`are; were quantified`
+161	239	REL	`are; were quantified`
+350	287	REL	`are; can be jeopardized`
+1	294	REL	`are; could be; distinguishing`
+778	294	REL	`are; could be; distinguishing`
+1	754	REL	`is`
+1	779	REL	`is`
+1	107	REL	`were`
+1	106	REL	`were`
+1	18	REL	`were`
+780	107	REL	`were`
+780	106	REL	`were`
+780	18	REL	`were`
+40	18	REL	`is`
+781	18	REL	`is`
+1	0	REL	`is`
+1	45	REL	`is`
+1	26	REL	`is`
+20	1	REL	`were`
+252	1	REL	`is`
+252	20	REL	`is`
+266	1	REL	`is`
+266	20	REL	`is`
+782	783	REL	`were`
+308	45	REL	`was`
+45	45	REL	`was`
+784	45	REL	`was`
+785	45	REL	`was`
+45	786	REL	`was`
+45	787	REL	`was`
+45	788	REL	`was`
+45	789	REL	`was`
+308	786	REL	`was`
+308	787	REL	`was`
+308	788	REL	`was`
+308	789	REL	`was`
+1	1	REL	`were`
+1	42	REL	`is`
+220	0	REL	`is; is`
+220	45	REL	`is; is`
+1	31	REL	`is not`
+0	31	REL	`is not`
+780	31	REL	`is not`
+1	780	REL	`are`
+1	1	REL	`are`
+0	780	REL	`are`
+0	1	REL	`are`
+220	318	REL	`is`
+0	18	REL	`could be`
+0	271	REL	`could be`
+1	220	REL	`are`
+1	271	REL	`are`
+778	220	REL	`are`
+778	271	REL	`are`
+1	45	REL	`would be`
+1	385	REL	`would be`
+38	45	REL	`would be`
+38	385	REL	`would be`
+42	42	REL	`was`
+1	42	REL	`was`
+57	56	REL	`is`
+790	763	REL	`was`
+50	45	REL	`was`
+72	45	REL	`was`
+69	82	REL	`were`
+69	68	REL	`were`
+250	82	REL	`were`
+250	68	REL	`were`
+75	82	REL	`were`
+75	68	REL	`were`
+50	268	REL	`was`
+72	268	REL	`was`
+50	268	REL	`were`
+72	268	REL	`were`
+50	72	REL	`were; is`
+72	50	REL	`were; is`
+70	70	REL	`were`
+580	580	REL	`were`
+573	249	REL	`was`
+249	247	REL	`were`
+249	574	REL	`were`
+574	247	REL	`were`
+574	574	REL	`were`
+425	584	REL	`was`
+425	791	REL	`was`
+576	584	REL	`was`
+576	791	REL	`was`
+249	72	REL	`was`
+249	50	REL	`was`
+68	767	REL	`is`
+792	792	REL	`is`
+72	45	REL	`were`
+50	45	REL	`were`
+50	55	REL	`is`
+50	50	REL	`is`
+72	55	REL	`is`
+72	50	REL	`is`
+24	25	REL	`has been`
+24	252	REL	`has been`
+26	25	REL	`has been`
+26	252	REL	`has been`
+1	252	REL	`is`
+1	18	REL	`is`
+1	0	REL	`was`
+1	700	REL	`was`
+1	793	REL	`was`
+1	99	REL	`was`
+1	271	REL	`may be`
+1	1	REL	`is`
+1	794	REL	`is`
+601	18	REL	`is`
+8	18	REL	`is`
+1	271	REL	`is`
+110	0	REL	`was`
+1	1	REL	`was`
+1	45	REL	`was`
+1	118	REL	`was`
+1	107	REL	`was`
+46	1	REL	`is`
+46	0	REL	`is`
+600	795	REL	`are`
+600	796	REL	`are`
+109	1	REL	`may be`
+320	18	REL	`was`
+320	46	REL	`was`
+1	104	REL	`was`
+1	103	REL	`was`
+1	106	REL	`was`
+1	797	REL	`was`
+1	798	REL	`was`
+26	799	REL	`has been`
+1	25	REL	`is`
+800	45	REL	`is`
+800	26	REL	`is`
+800	0	REL	`is`
+801	43	REL	`were`
+801	802	REL	`were`
+801	0	REL	`were`
+801	45	REL	`were`
+801	26	REL	`were`
+1	0	REL	`may be`
+1	803	REL	`is`
+282	803	REL	`is`
+121	271	REL	`are`
+125	271	REL	`are`
+283	804	REL	`is`
+122	804	REL	`is`
+226	305	REL	`is`
+226	612	REL	`is`
+226	125	REL	`is`
+1	57	REL	`is`
+122	441	REL	`were`
+122	805	REL	`were`
+122	440	REL	`were`
+122	806	REL	`were`
+1	120	REL	`was`
+125	122	REL	`was`
+1	120	REL	`was not`
+52	120	REL	`was not`
+125	120	REL	`was not`
+122	441	REL	`was`
+1	122	REL	`is`
+272	122	REL	`is`
+272	45	REL	`is`
+1	123	REL	`were`
+122	1	REL	`were`
+122	123	REL	`were`
+729	1	REL	`were`
+729	123	REL	`were`
+120	124	REL	`is`
+125	126	REL	`may be`
+52	120	REL	`is not; is`
+677	620	REL	`are`
+677	807	REL	`are`
+677	160	REL	`are`
+677	619	REL	`are`
+130	620	REL	`are`
+130	807	REL	`are`
+130	160	REL	`are`
+130	619	REL	`are`
+168	620	REL	`are`
+168	807	REL	`are`
+168	160	REL	`are`
+168	619	REL	`are`
+130	288	REL	`is`
+130	808	REL	`is`
+144	286	REL	`is`
+144	287	REL	`is`
+809	810	REL	`is`
+111	811	REL	`would be`
+1	811	REL	`would be`
+130	811	REL	`would be`
+168	811	REL	`would be`
+1	36	REL	`were`
+36	1	REL	`were`
+36	36	REL	`were`
+130	1	REL	`were`
+130	36	REL	`were`
+130	169	REL	`are`
+168	169	REL	`are`
+147	1	REL	`were`
+147	36	REL	`were`
+168	130	REL	`was`
+506	1	REL	`were`
+506	36	REL	`were`
+629	1	REL	`were`
+36	36	REL	`was`
+36	147	REL	`was`
+36	1	REL	`was`
+147	36	REL	`was`
+147	147	REL	`was`
+147	1	REL	`was`
+465	1	REL	`was`
+465	36	REL	`was`
+1	36	REL	`was`
+1	141	REL	`might be`
+1	469	REL	`are`
+1	445	REL	`are`
+36	469	REL	`are`
+36	445	REL	`are`
+182	812	REL	`are`
+182	233	REL	`was; is`
+366	638	REL	`is`
+484	760	REL	`are`
+483	760	REL	`are`
+813	381	REL	`was`
+488	814	REL	`was`
+488	286	REL	`was`
+488	774	REL	`was`
+236	491	REL	`is`
+491	491	REL	`is`
+619	45	REL	`is`
+242	306	REL	`is`
+486	306	REL	`is`
+815	159	REL	`being`
+816	159	REL	`being`
+817	159	REL	`being`
+486	306	REL	`are`
+306	201	REL	`were`
+306	263	REL	`were`
+818	819	REL	`was`
+486	820	REL	`are`
+486	821	REL	`are`
+486	822	REL	`are`
+486	823	REL	`are`
+520	820	REL	`are`
+520	821	REL	`are`
+520	822	REL	`are`
+520	823	REL	`are`
+156	200	REL	`might be`
+745	746	REL	`is`
+745	824	REL	`is`
+745	747	REL	`is`
+745	353	REL	`is`
+241	211	REL	`are`
+241	520	REL	`are`
+241	661	REL	`are`
+156	211	REL	`are`
+156	520	REL	`are`
+156	661	REL	`are`
+263	199	REL	`are`
+208	31	REL	`is`
+813	760	REL	`are`
+519	766	REL	`being`
+825	501	REL	`were`

@@ -1,0 +1,831 @@
+id:ID	label:LABEL	word
+0	protein|gene|immunoglobulin_like_domain_superfamily|immunoglobulin_subtype_2,_protein_family|membrane_proteins|immunoglobulin_subtype,_protein_family|protein_coding_gene	`Bsg`
+1	species	`house mouse`
+2	chemical_entity|chemical	`glucose`
+3	chemical_entity|chemical	`pyruvate`
+4	chemical_entity|chemical	`lactate`
+5	disease	`aml`
+6	disease_of_cellular_proliferation|disease	`cancer`
+7	protein_coding_gene|gene	`SLC16A1`
+8	protein_coding_gene|gene	`VEGFA`
+9	species	`Human`
+10	compound	`alpha acid`
+11	protein|major_facilitator_superfamily|gene|protein_coding_gene|monocarboxylate_transporter_1	`Mct1`
+12	disease	`tumor`
+13	gene	`M(3)62A`
+14	coronavirus_disease|viral_infectious_disease|infectious_disease|respiratory_disease|disease|viral_pneumonia|pneumonia	`COVID-19`
+15	biological_pathway|glucose_metabolism	`Gluconeogenesis`
+16	chemical_entity|chemical	`tca`
+17	protein|rna_binding_proteins|gene|rna_binding_protein_nova_2|protein_family|protein_coding_gene	`NOVA alternative splicing regulator 2`
+18	gene	`blot`
+19	protein_coding_gene|gene	`PPIA`
+20	chemical_entity|chemical	`cpgs`
+21	protein|protein_coding_gene|major_facilitator_superfamily|gene	`Slc45a1`
+22	protein|gene|aaa_proteins|protein_coding_gene|abc_transporter_a	`ATP binding cassette subfamily A member 1`
+23	species	`sars-cov-2`
+24	chemical_entity|chemical	`alanine`
+25	chemical_entity|chemical	`ump`
+26	compound|chemical_entity|chemical_entity_class	`acetone`
+27	protein|protein_family|structural_protein	`viral matrix protein`
+28	compound|4_coumaric_acid	`(E)-p-coumaric acid`
+29	chemical_entity|chemical	`glutamine`
+30	gene	`brca`
+31	protein_coding_gene|gene	`BSG`
+32	physiological_condition	`infection`
+33	compound	`(alpha,beta,beta-~2~H_3_)Tryptophan`
+34	gene_variant	`BRCA2 Mutation`
+35	cell_type|cell	`immune cell`
+36	chemical_entity|chemical	`3-hydroxybutyrate`
+37	protein|protein_family	`Transport accessory protein  MmpS`
+38	disease	`type of cancer`
+39	chemical_entity|chemical	`13c3`
+40	chemical_entity|chemical	`sbsg`
+41	cellline	`u937`
+42	cellline	`ht-93`
+43	gene	`m62a`
+44	gene_variant|mutation	`rs4919859`
+45	chemical_entity|chemical	`glutamate`
+46	chemical_entity|chemical	`aspartate`
+47	leukocyte_disease|disease|myeloid_neoplasm	`multiple myeloma`
+48	disease	`myeloma`
+49	disease	`dry milk`
+50	chemical_entity|chemical	`tween-20`
+51	chemical_entity|chemical	`tbst`
+52	chemical_entity|chemical	`tris-buffered saline`
+53	species	`sars coronavirus 2`
+54	protein|protein_coding_gene	`LINF_280034800`
+55	gene	`cd`
+56	gene	`hea`
+57	biological_pathway	`Disease`
+58	chemical_entity|chemical	`monocarboxylates`
+59	disease	`multiple cancer`
+60	disease	`kich`
+61	compound	`(4,5-~3~H_2_)Lysine`
+62	biological_pathway	`Metabolism`
+63	disease	`hiv-1 infection`
+64	protein|cytochrome_p450_superfamily|gene|cytochrome_p450,_e_class,_group_i	`Cyp6a22`
+65	chemical_entity|chemical	`tmb`
+66	compound	`aldehydo-D-(¹³C₆)glucose`
+67	disease	`pan-cancer`
+68	protein	`isoform`
+69	biological_pathway|cytochrome_p450___arranged_by_substrate_type	`Fatty acids`
+70	membrane|cellular_component|cell_periphery	`plasma membrane`
+71	protein_coding_gene|gene	`carbamoyl phosphate synthase NGR_b11920`
+72	gene	`solute carrier family 16 member 1 slc16a1`
+73	chemical_entity|chemical	`n6`
+74	chemical_entity|chemical	`n6-(2-hydroxyethyl) adenosine`
+75	protein|gene|ptp_type_protein_phosphatase_domain,_protein_family|immunoglobulin_like_domain_superfamily|protein_coding_gene|immunoglobulin_subtype,_protein_family|tyrosine_specific_protein_phosphatases_domain,_protein_family	`clr-1`
+76	chemical_entity|chemical	`5'-uridylic acid`
+77	chemical_entity|chemical	`n6-dimethyladenosine`
+78	compound	`cordycepin`
+79	protein|protein_precursor|insulin|insulin_family|protein_family	`Insulin`
+80	chemical_entity|chemical	`tg`
+81	triglyceride_rich_plasma_lipoprotein_particle|chemical_entity|chemical_entity_class	`triglyceride`
+82	protein_coding_gene|gene	`Nfe2l2`
+83	chemical_entity|chemical	`gsea`
+84	compound|drug|medication	`azelaic acid`
+85	compound	`tivozanib hydrochloride hydrate`
+86	chemical_entity|chemical	`azd3965`
+87	protein|compound	`Pea protein`
+88	disease	`chol`
+89	protein_coding_gene|gene	`antigen A lmo0118`
+90	protein|gene|s_adenosyl_l_methionine_dependent_methyltransferase|protein_coding_gene|dna_(cytosine_5)_methyltransferase_1_like	`DNMT1`
+91	protein|group_or_class_of_enzymes|enzyme|dna_methyltransferase|gene|c_5_cytosine_methyltransferase|protein_family|s_adenosyl_l_methionine_dependent_methyltransferase|protein_coding_gene|dna_(cytosine_5)_methyltransferase_3a	`DNMT3A`
+92	protein_coding_gene|gene	`DNMT3B`
+93	diabetes|disease	`insulin resistance`
+94	compound	`Hordatine A`
+95	biological_pathway|epigenetic_regulation_of_gene_expression	`DNA methylation`
+96	protein|protein_coding_gene|major_facilitator_superfamily|gene	`Solute carrier family 16 member 4`
+97	disease	`hepatic steatosis`
+98	disease|glucose_metabolism_disease	`hyperglycemia`
+99	gene	`Bdywt`
+100	conditionally_essential_amino_acids|compound|drug|chemical_entity|chemical_entity_class|dl_glutamine|medication	`L-glutamine`
+101	protein_coding_gene|gene	`INS`
+102	chemical_entity|chemical	`ketone`
+103	gene	`sr`
+104	chemical_entity|chemical	`cd`
+105	gene_variant|mutation	`rs1049434`
+106	overnutrition|disease|symptom	`obesity`
+107	disease	`hyperinsulinemic`
+108	protein|protein_coding_gene|gene|protein_family	`CLAMP`
+109	biological_pathway|glucose_metabolism	`Glycolysis`
+110	protein|monocarboxylate_transporter_(interpro)|group_or_class_of_transmembrane_transport_proteins|protein_family	`Monocarboxylate transporter 2`
+111	chemical_entity|chemical	`asparagine`
+112	protein|protein_coding_gene|gene	`AKT1`
+113	diabetes|disease|glucose_metabolism_disease	`diabetes`
+114	disease	`diabetic hyperglycemia; excessive gluconeogenesis and diabetes mellitus`
+115	gene_variant|mutation	`g6p`
+116	chemical_entity|chemical	`fructose 6-phosphate`
+117	chemical_entity|chemical	`f6p`
+118	chemical_entity|chemical	`free fatty acids`
+119	chemical_entity|chemical	`oxylipins`
+120	gene	`Cycle`
+121	biological_pathway|digestion_and_absorption	`Digestion`
+122	disease	`food loss`
+123	lymphocyte|cell_type|agranulocytes	`natural killer cell`
+124	cell_type|agranulocytes	`lymphocyte`
+125	gene_variant|mutation	`rs4682`
+126	species	`Red Junglefowl`
+127	cell	`genome`
+128	disease	`deficiency-associated suppression of gluconeogenesis`
+129	chemical_entity|chemical	`difas`
+130	disease	`tumour`
+131	protein|leucine_rich_repeat,_protein_family|monocyte_differentiation_antigen_cd14|gene|protein_coding_gene|leucine_rich_repeat_domain_superfamily	`CD14`
+132	biological_pathway	`Immune System`
+133	compound|chemical_entity|chemical_entity_class	`sodium hydroxide`
+134	biological_pathway|phase_ii___conjugation_of_compounds	`Methylation`
+135	chemical_entity|chemical	`cu-bsg`
+136	chemical_entity|chemical	`cu`
+137	protein|lactate/malate_dehydrogenase,_c_terminal_domain,_protein_family|l_lactate_dehydrogenase|lactate_dehydrogenase/glycoside_hydrolase,_family_4,_c_terminal|lactate/malate_dehydrogenase,_n_terminal_domain,_protein_family	`Lactate dehydrogenase Dmel_CG10160`
+138	protein|succinate_semialdehyde_dehydrogenase|gene|aldehyde_dehydrogenase,_n_terminal|protein_coding_gene|aldehyde/histidinol_dehydrogenase|aldehyde_dehydrogenase,_c_terminal|aldehyde_dehydrogenase_domain,_protein_family	`NAD-dependent succinyl-semialdehyde dehydrogenase Atu5137`
+139	breast_disease|disease|breast_cancer|symptom	`breast cancer`
+140	chemical_entity|chemical	`carbon`
+141	chemical_entity|chemical	`polyphenols`
+142	chemical_entity|chemical	`glu`
+143	biological_pathway|cytochrome_p450___arranged_by_substrate_type	`Xenobiotics`
+144	cell_type|hemal_cell	`hematopoietic cell`
+145	biological_pathway	`Angiogenesis`
+146	disease	`anaplerosis suppression`
+147	disease	`gluconeogenesis impairment`
+148	protein_coding_gene|gene	`flavin reductase protein BDGL_003591`
+149	gene	`logo`
+150	chemical_entity|chemical	`ribonucleoside`
+151	disease	`hpa`
+152	chemical_entity|chemical	`dinucleotides`
+153	species	`Cordyceps militaris`
+154	chemical_entity|chemical	`nucleoside`
+155	protein|protein_coding_gene|gene|tumour_necrosis_factor_receptor_14	`Tnfrsf14`
+156	protein|protein_coding_gene|immunoglobulin_like_domain_superfamily|gene	`HLA-A`
+157	protein|protein_coding_gene|immunoglobulin_like_domain_superfamily|gene	`HLA-B`
+158	protein|protein_coding_gene|immunoglobulin_like_domain_superfamily|gene	`HLA-C`
+159	protein|tapasin|gene|immunoglobulin_like_domain_superfamily|membrane_proteins|protein_coding_gene	`Tapbp`
+160	protein|immunoglobulin_subtype,_protein_family|gene|immunoglobulin_like_domain_superfamily|protein_coding_gene|immunoglobulin_domain,_protein_family	`Pvr`
+161	protein|immunoglobulin_subtype,_protein_family|gene|nectin_2|immunoglobulin_like_domain_superfamily|protein_coding_gene	`NECTIN2`
+162	protein|tumor_necrosis_factor_receptor_18|gene|membrane_proteins|protein_coding_gene	`Tnfrsf18`
+163	protein|tumour_necrosis_factor_receptor_25|death_like_domain_superfamily|gene|membrane_proteins|protein_coding_gene	`TNFRSF25`
+164	protein_coding_gene|gene	`TNFSF9`
+165	disease	`coronavirus disease 2019`
+166	myeloid_leukemia|acute_leukemia|disease	`acute myeloid leukemia`
+167	protein|protein_coding_gene|gene	`Transmembrane protein`
+168	gene_variant|mutation	`rs8637`
+169	species	`basil`
+170	gene	`Arts`
+171	disease	`sle`
+172	protein	`wheat gluten`
+173	protein|major_facilitator_superfamily|transcriptional_regulator_hth_type,_malt|gene|transcription_regulator_luxr,_c_terminal_domain,_protein_family|membrane_proteins|protein_coding_gene	`malT`
+174	protein|membrane_proteins|protein_coding_gene|gene	`Epcam`
+175	protein_coding_gene|gene	`aldehyde dehydrogenase SCO1174`
+176	protein	`membrane mineralocorticoid receptor`
+177	protein|protein_coding_gene|gene	`MLH1`
+178	protein|dna_mismatch_repair_protein_msh2|gene|dna_mismatch_repair_protein_muts,_n_terminal_domain,_protein_family|protein_coding_gene	`MSH2`
+179	protein|dna_mismatch_repair_protein_muts,_n_terminal_domain,_protein_family|protein_coding_gene|gene	`MSH6`
+180	protein|protein_coding_gene|gene|dna_mismatch_repair_protein_mutl/mlh/pms	`PMS2`
+181	chemical_entity|chemical	`formalin`
+182	species	`SARSr-CoV`
+183	disease	`hiv-1, hepatitis b virus, hepatitis c virus`
+184	disease|viral_infectious_disease|infectious_disease|viral_hepatitis	`hepatitis B`
+185	disease|viral_infectious_disease|infectious_disease|viral_hepatitis	`hepatitis C`
+186	species	`Human gammaherpesvirus 8`
+187	compound	`(6-Chloro-3-nitro-2-pyridyl) (2-chlorophenyl) ketone`
+188	chemical_entity|chemical	`paraffin`
+189	biomolecule|compound	`metabolite`
+190	chemical_entity|chemical	`dss`
+191	disease	`invasive breast cancer`
+192	disease	`lung adenocarcinoma`
+193	chemical_entity|chemical	`5sr3cu`
+194	chemical_entity|chemical	`omim: 109480`
+195	species	`brown rat`
+196	cell_type|cell	`cultured cell`
+197	gene	`mpc1/2`
+198	organelle_inner_membrane|cellular_component|mitochondrial_membrane	`mitochondrial inner membrane`
+199	compound	`Polymer`
+200	chemical_entity|chemical	`13s`
+201	respiratory_system_cancer|disease|lung_disease|rare_disease	`lung cancer`
+202	disease	`melanoma and lung cancer`
+203	disease	`a bladder cancer`
+204	biological_pathway	`Bladder cancer`
+205	protein|membrane_proteins	`Immunoglobulin`
+206	protein	`plasma membrane protein`
+207	chemical_entity|chemical	`catechin`
+208	compound	`Procyanidin`
+209	protein	`cytokine`
+210	compound	`3,3',5,5'-tetramethylbenzidine`
+211	cellline	`h460`
+212	species	`European Rabbit`
+213	chemical_entity|chemical	`hordatines`
+214	chemical_entity|chemical	`urea`
+215	cell_type|t_lymphocytes	`gamma delta T cell`
+216	protein|enzyme_linked_receptor	`enzyme`
+217	protein_coding_gene|gene	`ACE2`
+218	protein	`Glass Dmel_CG7672`
+219	copper_proteins|compound|drug|chemical_entity|chemical_entity_class|chemical_element|medication	`copper`
+220	chemical_entity|chemical	`bsg-p`
+221	chemical_entity|chemical	`bsg-f`
+222	disease	`haploinsufficient`
+223	cellline	`c2c12`
+224	gene	`sick`
+225	chemical_entity|chemical	`caso4`
+226	chemical_entity|chemical	`hordatine`
+227	protein	`Alpha-glucosidase`
+228	species	`Hordeum vulgare`
+229	chemical_entity|chemical	`sugars`
+230	chemical_entity|chemical	`oleic`
+231	chemical_entity|chemical	`linoleic acids`
+232	chemical_entity|chemical	`palmitic`
+233	disease	`diabetic`
+234	protein|membrane_proteins|methyl_accepting_chemotaxis_protein	`Methyl-accepting chemotaxis protein MXAN_RS32420`
+235	disease	`metabolic disorders`
+236	chemical_entity|chemical	`phosphoenolpyruvate`
+237	chemical_entity|chemical	`oxaloacetate`
+238	chemical_entity|chemical	`oxygen`
+239	disease|colon_cancer	`colon carcinoma`
+240	cellline	`caco-2`
+241	cellline	`ht93`
+242	chemical_entity|chemical	`glucono-delta-lactone`
+243	chemical_entity|chemical	`sodium citrate`
+244	protein|protein_family	`Unpaired protein`
+245	chemical_entity|chemical	`mct`
+246	protein|protein_coding_gene|gene|prothymosin/parathymosin	`Hypothetical protein LOC100359583`
+247	actin|protein	`Actin, beta 1`
+248	protein|gene|membrane_proteins|compass_component_spp1|protein_coding_gene|osteopontin	`SPP1`
+249	compound|(e/z)_ferulic_acid	`ferulic acid`
+250	protein|proteasome_subunit_alpha5|protein_coding_gene|gene	`Proteasome subunit alpha 5`
+251	compound	`bentonite`
+252	chemical_entity|chemical	`uronic acids`
+253	chemical_entity|chemical	`hydroxycinnamic acids`
+254	biological_pathway|sars_cov_infections	`SARS-CoV-2 Infection`
+255	biological_pathway|dna_repair	`Mismatch Repair`
+256	chemical_element|compound|chemical_entity|chemical_entity_class	`strontium`
+257	biological_pathway|virus_assembly_and_release	`Release`
+258	chemical_entity|chemical	`phenolamide`
+259	compound	`feruloylagmatine`
+260	chemical_entity|chemical	`5sr1cu`
+261	protein	`alternative protein`
+262	protein|gene|alpha/beta_hydrolase_fold|carboxylesterase_type_b	`Alpha-Esterase-1 Dmel_CG1031`
+263	protein	`chain a, pp2a-specific methylesterase apo form (pme), putative`
+264	protein_coding_gene|gene	`areA`
+265	protein_coding_gene|gene	`SLC16A3`
+266	chemical_entity|chemical	`0sr3cu`
+267	chemical_entity|chemical	`hematoxylin-eosin`
+268	chemical_entity|chemical	`5sr3cu-bsg`
+269	protein|group_or_class_of_enzymes|enzyme|protein_family	`Cyclic 2, 3-diphospoglycerate synthetase`
+270	compound	`(C~3~-~3~H)Hexose`
+271	chemical_entity|chemical	`hordatines a-c`
+272	protein|tumour_necrosis_factor_alpha|gene|protein_family|membrane_proteins|protein_coding_gene	`TNF`
+273	disease|general_symptom|clinical_sign|symptom	`inflammation`
+274	disease	`femoral condylar defects`
+275	compound	`(2H)Formic (2)acid`
+276	protein_coding_gene|gene	`Runx2`
+277	cellline	`s6`
+278	compound	`Hexahydropyrrolo[1,2-a]pyrazine-1,4-dione`
+279	chemical_entity|chemical	`c-o`
+280	chemical_entity|chemical	`borosilicate`
+281	protein|protein_coding_gene|phosphoheptose_isomerase|gene	`DnaA initiator-associating factor for replication initiation VF_2213`
+282	chemical_entity|chemical	`cu-bsgs`
+283	disease	`femoral condylar bone defects`
+284	protein|huntingtin	`HEAT`
+285	protein_coding_gene|gene	`POTEF`
+286	chemical_entity|chemical	`amide`
+287	compound|chemical_entity|chemical_entity_class	`chitosan`
+288	compound	`agmatine`
+289	compound	`spermidine`
+290	chemical_entity|chemical	`arabinoxylan`
+291	protein|enoyl_coa_hydratase/isomerase	`Enoyl-CoA hydratase BDGL_000219`
+292	protein|protein_coding_gene|gene	`CPT1A`
+293	nutrition,_metabolism,_and_development_symptom|clinical_sign|symptom	`weight gain`
+294	symptom|cytopenia|hematopoietic_system_disease|disease|hemic_system_symptom	`anemia`
+295	disease	`osteogenesis`
+296	disease	`food deprivation`
+297	protein|protein_coding_gene|gene|beta_hydroxyacyl_(acyl_carrier_protein)_dehydratase_faba	`3-hydroxydecanoyl-ACP dehydratase XCC0582`
+298	protein|octamer_binding_transcription_factor|pou_domain,_protein_family|gene|protein_coding_gene	`POU class 2 homeobox 3`
+299	nutrition,_metabolism,_and_development_symptom|clinical_sign|symptom	`weight loss`
+300	compound	`(~65~Cu)Copper`
+301	compound	`oxidosilicon(1+)`
+302	protein|fibroblast_growth_factor_2|gene|fibroblast_growth_factor_family|protein_family|protein_coding_gene|cytokine_il1/fgf|group_or_class_of_transmembrane_transport_proteins	`FGF2`
+303	disease	`rabbit femoral condylar bone defect`
+304	chemical_entity|chemical	`phenolamides`
+305	species	`Aspergillus awamori`
+306	compound|drug|chemical_entity|chemical_entity_class|medication	`dopamine`
+307	compound	`tyramine`
+308	compound|chemical_entity|chemical_entity_class	`tryptamine`
+309	physiological_condition	`health`
+310	protein|serine_threonine/tyrosine_protein_kinase,_catalytic_domain,_protein_family|immunoglobulin_subtype,_protein_family|gene|tyrosine_protein_kinase,_catalytic_domain,_protein_family|immunoglobulin_like_domain_superfamily|immunoglobulin_subtype_2,_protein_family|vascular_endothelial_growth_factor_receptor_1_(vegfr1)|protein_coding_gene|immunoglobulin_domain,_protein_family|protein_kinase_domain,_protein_family	`FLT1`
+311	protein|protein_coding_gene|gene|protein_family	`Brain expressed associated with NEDD4 1`
+312	protein|protein_coding_gene|gene|pyrimidine_5'_nucleotidase,_eukaryotic	`5'-nucleotidase, cytosolic III`
+313	protein|dietary_protein|globular_protein	`whey protein`
+314	chemical_entity|chemical	`acetyl-coa`
+315	species	`rhizopus`
+316	nutrition,_metabolism,_and_development_symptom|syndrome|symptom	`wasting`
+317	compound	`(EZ)-sinapic acid`
+318	chemical_entity|chemical	`oeo`
+319	protein|vascular_endothelial_growth_factor_receptor_2_(vegfr2)|serine_threonine/tyrosine_protein_kinase,_catalytic_domain,_protein_family|gene|tyrosine_protein_kinase,_catalytic_domain,_protein_family|immunoglobulin_like_domain_superfamily|immunoglobulin_subtype_2,_protein_family|membrane_proteins|immunoglobulin_subtype,_protein_family|protein_coding_gene|immunoglobulin_domain,_protein_family|protein_kinase_domain,_protein_family	`KDR`
+320	chemical_entity|chemical	`ac-73`
+321	protein|gene|tubulin/ftsz,_gtpase_domain,_protein_family|epsilon_tubulin|protein_coding_gene	`Tube1`
+322	compound	`N-(Allyloxycarbonyl)-4-[N-(Carboxy-Formyl)-2-(Benzoic Acid)-Amino]-L-Phenylalaninyl-Amino-Butyloxy-(6-Hydroxy-Benzoic Acid Methyl Ester)`
+323	compound|chemical_entity|chemical_entity_class	`lycopene`
+324	chemical_entity|chemical	`polyvinyl alcohol`
+325	chemical_entity|chemical	`pva`
+326	gene	`corn`
+327	cellline	`raw 264.7`
+328	species	`soybean`
+329	protein|protein_coding_gene|bcl_2_related_protein_a1|gene	`Bcl2a1a`
+330	protein|protein_coding_gene|glycoside_hydrolase_superfamily|gene	`Chia`
+331	compound	`Ethan(~17~O)ol`
+332	protein|thiamin_pyrophosphokinase,_catalytic_domain,_protein_family|gene|thiamin_pyrophosphokinase,_catalytic_domain_superfamily|protein_coding_gene|thiamin_pyrophosphokinase_(subset)	`Thiamine pyrophosphokinase KVU_0304`
+333	species	`Cyamopsis tetragonoloba`
+334	species	`common carp`
+335	gene	`thick`
+336	species	`strain`
+337	sterol|compound|chemical_entity|chemical_entity_class|triglyceride_rich_plasma_lipoprotein_particle	`cholesterol`
+338	chemical_entity|chemical	`maltosyl`
+339	chemical_entity|chemical	`methylene blue-acid fuchsin`
+340	compound|drug|chemical_entity|chemical_entity_class|medication	`pentobarbital sodium`
+341	disease	`femoral condylar bone defect`
+342	chemical_entity|chemical	`benzylpenicillin potassium`
+343	chemical_entity|chemical	`sinapic acid`
+344	chemical_entity|chemical	`amine`
+345	disease	`rabbit femoral condylar defects`
+346	chemical_entity|chemical	`sr2+`
+347	chemical_entity|chemical	`hydroxycinnamoyl putrescines`
+348	chemical_entity|chemical	`spermidines`
+349	gene	`melt`
+350	species	`Weissella confusa`
+351	chemical_entity|chemical	`sucrose`
+352	gene	`sro`
+353	chemical_entity|chemical	`ce-tofms`
+354	chemical_entity|chemical	`lysine`
+355	gene	`PARTICL`
+356	plastid|cellular_anatomical_entity|cellular_component	`starch grain`
+357	compound	`Ethyl (4-nitro-2-propanoylphenoxy)acetate`
+358	chemical_entity|chemical	`polyamine`
+359	chemical_entity|chemical	`5sr0cu`
+360	chemical_entity|chemical	`0sr1cu`
+361	protein|glycogen/starch/alpha_glucan_phosphorylase	`Glycogen phosphorylase, muscle associated`
+362	species	`faba bean`
+363	species	`l. paracasei`
+364	species	`s. thermophilus`
+365	protein_coding_gene|gene	`Il1rn`
+366	protein|transforming_growth_factor_beta,_c_terminal_domain,_protein_family|gene|transforming_growth_factor_beta_1_proprotein|protein_coding_gene	`Tgfb1`
+367	disease	`acute myeloid leukaemia`
+368	chemical_entity|chemical	`cu2+`
+369	compound	`cupric ion`
+370	biological_pathway	`Gene expression (Transcription)`
+371	disease	`bone defects`
+372	compound|chemical_entity|chemical_entity_class	`یک ترکیب شیمیایی`
+373	compound|chemical_entity|chemical_entity_class	`lauric acid`
+374	protein|mitogen_activated_protein_(map)_kinase,_erk1/2|protein_kinase_domain,_protein_family	`Rolled Dmel_CG12559`
+375	compound|drug|chemical_entity|chemical_entity_class|medication	`calcium carbonate`
+376	compound	`silicalite`
+377	compound|chemical_entity|chemical_entity_class	`sodium carbonate`
+378	chemical_entity|chemical	`srco3`
+379	chemical_entity|chemical	`4mgco3 mg(oh)2 5h2o`
+380	compound|chemical_entity|chemical_entity_class	`potassium carbonate`
+381	compound	`monosodium phosphate`
+382	designated_intractable/rare_diseases|interstitial_lung_disease|disease|bronchospasm	`bronchiolitis obliterans`
+383	chemical_entity|chemical	`b-o`
+384	protein|serine_threonine/tyrosine_protein_kinase,_catalytic_domain,_protein_family|gene|tyrosine_protein_kinase,_catalytic_domain,_protein_family|immunoglobulin_like_domain_superfamily|immunoglobulin_subtype_2,_protein_family|membrane_proteins|immunoglobulin_subtype,_protein_family|protein_coding_gene|immunoglobulin_domain,_protein_family|mast/stem_cell_growth_factor_receptor|protein_kinase_domain,_protein_family	`Kit`
+385	protein	`reverse transcriptase (RNA-dependent DNA polymerase)`
+386	chemical_entity|chemical	`tetracycline-calcein`
+387	chemical_entity|chemical	`nitrogen`
+388	disease	`deaths`
+389	group_or_class_of_enzymes|oxidoreductase|enzyme	`Nitroalkane oxidase`
+390	cell_type|macrophage	`M2 macrophage`
+391	gene	`bond`
+392	chemical_entity|chemical	`naoh`
+393	disease|cell_type_cancer	`sarcoma`
+394	protein|gene	`Rich`
+395	gene	`MELTF-AS1`
+396	chemical_entity|chemical	`sr2`
+397	chemical_entity|chemical	`ethanol`
+398	protein|major_royal_jelly_protein/protein_yellow|protein_family	`Protein yellow`
+399	disease	`bmd`
+400	protein|protein_coding_gene|gene|c_type_lectin,_conserved_site,_protein_family	`MRC1`
+401	chemical_entity|chemical	`edta`
+402	gene	`hsp70/90`
+403	chemical_entity|chemical	`cuo`
+404	disease	`hepatic tg determination`
+405	compound	`polyacrylamide`
+406	protein|protein_coding_gene|gene	`Arrowhead Dmel_CG1072`
+407	compound	`biomarker`
+408	disease	`tumour invasiveness`
+409	disease	`solid tumours`
+410	protein_coding_gene|gene	`mdpI`
+411	protein|motor_protein|atpase|protein_family|membrane_proteins	`actin`
+412	chemical_element|chemical_entity|chemical_entity_class	`bismuth`
+413	compound|aldehydes|essential_medicine	`glutaral`
+414	disease	`fractures`
+415	protein|protein_coding_gene|ribosomal_protein_l35,_non_mitochondrial|gene	`50S ribosomal protein L35 NGR_c36250`
+416	compound	`N6,N6-dimethyladenosine`
+417	chemical_entity|chemical	`ca2+`
+418	compound|chemical_entity|chemical_entity_class	`calcium sulfate`
+419	disease	`osteoporotic`
+420	protein_coding_gene|gene	`DNMT`
+421	chemical_entity|chemical	`sr-sbg`
+422	gene	`flt1`
+423	protein|gene|immunoglobulin_like_domain_superfamily|protein_coding_gene|immunoglobulin_subtype,_protein_family	`CD80`
+424	compound	`EDTA(2-)`
+425	protein_coding_gene|gene	`RRAD`
+426	compound	`methcathinone`
+427	gene	`SiaT`
+428	compound	`Calcium phosphate`
+429	chemical_entity|chemical	`mg2+`
+430	chemical_entity|chemical	`sr3cu`
+431	disease	`osteoclastogenesis`
+432	compound	`glyceryl 1-oleate`
+433	gene_variant|mutation	`a25x`
+434	protein|protein_family|gene|melanoma_associated_antigen	`MAGE`
+435	cholecystokinin|compound|drug|medication	`sincalide`
+436	chemical_entity|chemical	`tris`
+437	chemical_entity|chemical	`calcium`
+438	chemical_entity|chemical	`oct compound`
+439	fatty_liver_disease|disease|gene|non_alcoholic_fatty_liver_disease	`NAFLD1`
+440	protein|monocarboxylate_transporter_3|protein_coding_gene|gene	`SLC16A8`
+441	disease	`deficiency ameliorates nafld`
+442	chemical_entity|chemical	`william's e medium`
+443	compound|chemical_entity|chemical_entity_class	`osmium tetroxide`
+444	protein_coding_gene|gene	`ALPP`
+445	disease	`metabolic syndrome`
+446	chemical_entity|chemical	`pmma`
+447	protein|phenylacetate_coa_oxygenase,_paaj_subunit	`Phenylacetic acid degradation protein SM_b21637`
+448	disease	`malignant cancer`
+449	disease	`infected`
+450	protein|interleukin_6|gene|protein_coding_gene	`Il6`
+451	protein|mboat|gene|membrane_proteins|protein_coding_gene	`Mboat4`
+452	protein|immunoglobulin_subtype,_protein_family|immunoglobulin_like_domain_superfamily|immunoglobulin_subtype_2,_protein_family	`Immunoglobulin superfamily, member 3-like`
+453	chemical_element|compound|chemical_entity|chemical_entity_class	`lead`
+454	protein|gene|protein_coding_gene|interleukin_1_beta|cytokine_il1/fgf	`Il1b`
+455	sarcomere|cellular_anatomical_entity|cellular_component	`A band`
+456	chemical_entity|chemical	`platinum`
+457	general_symptom|health_problem|clinical_sign|symptom	`necrosis`
+458	disease	`stress`
+459	disease	`lihc`
+460	disease	`infections`
+461	chemical_entity|chemical	`gpalpha`
+462	cellular_component|collagen_containing_extracellular_matrix	`basement membrane`
+463	disease	`bone defects/fractures`
+464	disease	`metabolic disease`
+465	protein|aaa_proteins|protein_coding_gene|gene	`ATP binding cassette subfamily G member 1`
+466	biological_pathway	`TCA cycle (aka Krebs or citric acid cycle)`
+467	gene_variant|mutation	`6f`
+468	chemical_entity|chemical	`pbs`
+469	protein	`soy protein`
+470	gene	`double`
+471	cellular_anatomical_entity|cellular_component	`host`
+472	b_cell_lymphoma|disease|aggressive_b_cell_non_hodgkin_lymphoma	`diffuse large B-cell lymphoma`
+473	disease	`b-cell lymphoma`
+474	gene	`CG31211`
+475	gene	`Mir155hg`
+476	chemical_entity|chemical	`lactic acid`
+477	compound	`sodium pyruvate`
+478	overnutrition|syndrome|symptom	`overweight`
+479	protein_coding_gene|gene	`PGR`
+480	differentiated_hemal_cell|phagocyte|cell_type|antigen_presenting_cell|white_blood_cell	`macrophage`
+481	protein|protein_coding_gene|gene	`Cc2d1a`
+482	disease	`cytotoxicity`
+483	compound	`isoxaflutole`
+484	species	`severe acute respiratory syndrome coronavirus 2`
+485	protein_coding_gene|gene	`xenobiotic reductase A PSPTO_2405`
+486	membrane|cellular_component|organelle|cell_periphery	`cell membrane`
+487	protein|pancreatic_ribonuclease_group	`Ribonuclease, RNase A family, 1 (pancreatic)`
+488	protein_coding_gene|gene	`ACTB`
+489	chemical_entity|chemical	`tricarboxylic acid`
+490	protein|drug_resistance_transporter_bcr/cmla_subfamily|multi_antimicrobial_extrusion_protein|gene|integral_membrane_protein|chromate_transporter,_long_chain|trap_transporter_large_membrane_protein_dctm|membrane_proteins|protein_coding_gene|adenosine_specific_kinase|multidrug_resistance_protein	`transmembrane protein`
+491	protein|relaxin_receptor|leucine_rich_repeat,_protein_family|gene|membrane_proteins|protein_coding_gene|leucine_rich_repeat_domain_superfamily	`RXFP2`
+492	animal_cell|epithelium|cell_type|somatic_cell	`epithelial cell`
+493	chemical_entity|chemical	`ammonia`
+494	protein|gene|protein_family|protein_coding_gene|group_or_class_of_transmembrane_transport_proteins	`Mitochondrial pyruvate carrier`
+495	disease	`johnson`
+496	species	`apricots`
+497	species	`Oryza sativa`
+498	protein_coding_gene|gene	`scfA`
+499	protein	`plant proteins`
+500	chemical_entity|chemical	`hex`
+501	chemical_entity|chemical	`hydroxyl`
+502	chemical_entity|chemical	`sugar`
+503	disease|liver_carcinoma|hepatocellular_carcinoma	`hepatocellular carcinoma`
+504	lymphocyte|cell_type	`T-lymphocytes`
+505	protein|gene|brother_of_cdo|immunoglobulin_like_domain_superfamily|protein_family|immunoglobulin_subtype_2,_protein_family|immunoglobulin_subtype,_protein_family|protein_coding_gene|immunoglobulin_domain,_protein_family	`BOC`
+506	disease	`liver hepatocellular carcinoma`
+507	disease	`icp`
+508	protein|dna_topoisomerase,_type_iia,_subunit_a/_c_terminal,_alpha_beta|dna_topoisomerase,_type_iia_like_domain_superfamily|dna_gyrase,_subunit_a|gene|type_iia_dna_topoisomerase_subunit_a,_alpha_helical_domain_superfamily|protein_coding_gene|dna_topoisomerase,_type_iia,_subunit_a/c_terminal_domain,_protein_family	`DNA gyrase subunit A BP0944`
+509	chemical_entity|chemical	`pfa`
+510	chemical_entity|chemical	`cu-borosilicate`
+511	disease	`fracture`
+512	biological_pathway	`Osteoblast`
+513	gene	`Dns`
+514	squamous_cell_carcinoma|head_and_neck_carcinoma|head_and_neck_cancer|rare_disease|disease	`head and neck squamous cell carcinoma`
+515	kidney_disease|kidney_cancer|urinary_system_cancer|disease	`kidney cancer`
+516	protein	`Fimbrial protein STY0204`
+517	disease	`external auditory canal carcinoma`
+518	protein|protein_coding_gene|gene	`multifunctional protein`
+519	disease	`malignancies`
+520	biological_pathway|metabolic_pathway	`biosynthetic pathway`
+521	chemical_entity|chemical	`lipids`
+522	biological_pathway	`Insulin Signaling`
+523	chemical_entity|chemical	`citrate`
+524	chemical_entity|chemical	`fumarate`
+525	chemical_entity|chemical	`malate`
+526	chemical_entity|chemical	`beta-cl-alanine`
+527	biological_pathway	`Oxidative Stress`
+528	protein|protein_coding_gene|gene|auxiliary_protein_involved_in_transmembrane_transport	`PRKAA2`
+529	compound	`Sodium lactate`
+530	chemical_entity|chemical	`pf-bsg`
+531	compound	`guar gum`
+532	chemical_entity|chemical	`carbohydrates`
+533	protein|fumarylacetoacetase,_n_terminal_domain_superfamily|fumarylacetoacetase|gene|fumarylacetoacetase_like,_c_terminal_domain_superfamily|fumarylacetoacetase,_n_terminal_domain,_protein_family|fumarylacetoacetase_like,_c_terminal_domain,_protein_family	`Faa`
+534	chemical_entity|chemical	`hydroxycinnamoyl spermidines`
+535	biological_pathway|metabolism_of_carbohydrates	`Glucose metabolism`
+536	chemical_entity|chemical	`hydroxy`
+537	protein|chemokine|gene|protein_family	`C-X-C motif chemokine 14`
+538	species	`coronavirus`
+539	protein|gene|peptidase_m2,_peptidyl_dipeptidase_a|membrane_proteins|protein_coding_gene	`Ace2`
+540	gene	`epidermal growth factor receptor 2`
+541	gene	`her-2`
+542	protein_coding_gene|gene	`ESR1`
+543	disease	`carcinosarcoma`
+544	uterine_body_mixed_cancer|disease	`carcinosarcoma of the corpus uteri`
+545	biological_pathway|metabolism_of_proteins	`Translation`
+546	protein|protein_coding_gene|gene	`Ctsl`
+547	biological_pathway	`energy metabolism`
+548	protein|membrane_proteins|lsm_domain_superfamily|mechanosensitive_ion_channel_mscs	`Mechanosensitive channel MscS ECIAI39_3338`
+549	chemical_entity|chemical	`si`
+550	gene	`mesh`
+551	chemical_entity|chemical	`0sr1cu-bsg`
+552	chemical_entity|chemical	`0sr3cu-bsg`
+553	chemical_entity|chemical	`5sr0cu-bsg`
+554	chemical_entity|chemical	`5sr1cu-bsg`
+555	compound	`calcium sulfate hemihydrate`
+556	compound	`Sodium (~35~Cl)chloride`
+557	compound	`(~199~Au)Gold`
+558	chemical_entity|chemical	`hydroxyapatite`
+559	compound|aldehydes|chemical_entity|chemical_entity_class	`formaldehyde`
+560	disease	`fascia`
+561	chemical_entity|chemical	`sr1cu`
+562	compound|chemical_entity|chemical_entity_class	`cupric hydroxide`
+563	disease	`rabbit femoral condylar bone defects`
+564	disease	`bacterial infection`
+565	gene	`FOXD3-AS1`
+566	disease	`vertebral fractures`
+567	biological_pathway|leishmania_infection	`Cell recruitment (pro-inflammatory response)`
+568	disease	`covid-19`
+569	disease|bile_duct_adenocarcinoma	`cholangiocarcinoma`
+570	adenocarcinoma|disease|rectum_cancer	`rectum adenocarcinoma`
+571	disease	`invasive breast carcinoma`
+572	disease	`coughing`
+573	protein|protein_family	`Transmembrane glycoprotein`
+574	disease|squamous_cell_carcinoma|non_small_cell_lung_carcinoma|lung_cancer	`squamous cell carcinoma`
+575	biological_pathway|cell_type_cancer|rare_disease|skin_cancer|disease	`melanoma`
+576	disease	`hypopharyngeal squamous cell carcinoma`
+577	group_or_class_of_enzymes|metalloproteinase|enzyme|metalloendopeptidase|zinc_binding_protein	`matrix metalloproteinases`
+578	disease	`read`
+579	disease	`neoplasms`
+580	disease	`status of certain cancer`
+581	chemical_entity|chemical	`glucuronate`
+582	gene	`olfA`
+583	biological_pathway|infectious_disease	`Leishmania infection`
+584	chemical_entity|chemical	`pentose`
+585	disease	`malignancy`
+586	disease	`haematologic malignancy`
+587	disease	`bone marrow failure`
+588	disease	`immature leukemic blasts`
+589	gene	`mmp`
+590	hematopoietic_system_disease|symptom	`acidosis`
+591	chemical_entity|chemical	`rpmi-1640`
+592	protein|protein_coding_gene|orphan_nuclear_receptor,_nor1_type|gene	`Nr4a3`
+593	disease	`acute myelomonocytic leukaemia`
+594	protein_coding_gene|gene	`ADAM12`
+595	protein|protein_coding_gene|gene|transcription_factor_spt20	`SPT20 homolog, SAGA complex component`
+596	protein	`binding site`
+597	biological_pathway	`Oxidative phosphorylation`
+598	dnaacidchange	`c (a)`
+599	disease	`hepatosteatosis`
+600	lipid_metabolism_disorder|disease|metabolic_disease	`hyperlipidemia`
+601	disease	`hyperglycemia and hyperlipidemia`
+602	barrier_cell|cell_type|endothelium|endothelial_cell|epithelial_cell|meso_epithelial_cell	`endothelial cell`
+603	protein|protein_coding_gene	`LDHU3_25.1210`
+604	gene	`Org10`
+605	cellular_component|organelle_membrane|mitochondrial_envelope	`mitochondrial membrane`
+606	protein|group_or_class_of_enzymes|glutamate_dehydrogenase|glutamate/phenylalanine/leucine/valine_dehydrogenase|enzyme|gene|elfv_dehydrogenase|glutamate/phenylalanine/leucine/valine_dehydrogenase,_dimerisation_domain,_protein_family|nad(p)_binding_domain_of_glutamate_dehydrogenase_family|oxidoreductase,_acting_on_the_ch_nh2_group_of_donors,_nad_or_nadp_as_acceptor|protein_family|protein_coding_gene	`Glutamate dehydrogenase`
+607	chemical_entity|chemical	`egcg`
+608	protein|protein_coding_gene|gene|d_isomer_specific_2_hydroxyacid_dehydrogenase,_catalytic_domain,_protein_family	`D-3-phosphoglycerate dehydrogenase SF2898`
+609	chemical_entity|chemical	`citrulline`
+610	chemical_entity|chemical	`ornithine`
+611	compound|cyclic_compound	`creatinine`
+612	chemical_entity|chemical	`arginine`
+613	species	`Homotherium serum`
+614	protein|enoyl_coa_hydratase/isomerase	`Enoyl-CoA Hydratase CELE_F56B3.5`
+615	protein_coding_gene|gene	`Echs1`
+616	protein|choline/ethanolamine_phosphotransferase|gene|membrane_proteins|protein_coding_gene	`CPT1`
+617	compound	`(R)-3-hydroxybutyric acid`
+618	disease	`steatosis`
+619	disease|lipid_storage_disease	`fatty liver disease`
+620	protein|protein_coding_gene|gene	`atg-10`
+621	biological_pathway	`Reproduction`
+622	chemical_entity|chemical	`triton x-100`
+623	chemical_entity|chemical	`dulbecco's modified eagle medium`
+624	chemical_entity|chemical	`go`
+625	chemical_entity|chemical	`water`
+626	disease	`emulsification`
+627	gene	`side`
+628	chemical_entity|chemical	`xylose c-2`
+629	protein	`spray`
+630	disease|hypersensitivity|symptom	`allergy`
+631	disease	`irritation`
+632	protein|fprl1/chemotaxis_inhibitory_protein|protein_family	`Chemotaxis inhibitory protein`
+633	species	`Phaseolus vulgaris`
+634	protein|gene|protein_family|sh3_and_px_domain_containing_protein_2a|protein_coding_gene	`SH3PXD2A`
+635	protein|gene|membrane_proteins|protein_coding_gene|litaf_domain_containing_protein	`Litaf`
+636	disease	`elevate`
+637	restriction_enzyme_type|enzyme|restriction_enzyme	`BlpI`
+638	chemical_entity|chemical	`iso 14040`
+639	chemical_entity|chemical	`14044 lca`
+640	chemical_entity|chemical	`co2`
+641	symptom|abnormal_loss_of_weight_and_underweight	`underweight`
+642	species	`Cicer arietinum`
+643	species	`Sorghum bicolor`
+644	species	`maize`
+645	protein|gene	`Drice`
+646	compound	`(3-~13~C)Cysteine`
+647	chemical_entity|chemical	`ester`
+648	protein_coding_gene|gene	`CARL`
+649	pure,_prokaryotic_type|protein	`PurE BL1130`
+650	chemical_entity|chemical	`arabinoxylans`
+651	compound	`compound 7 (Brinkman et al., 1996)`
+652	chemical_entity|chemical	`hydroxycinnamic acid amides`
+653	chemical_entity|chemical	`8-5'-cyclic`
+654	chemical_entity|chemical	`8-8'-aryltetralin`
+655	chemical_entity|chemical	`8-o-4'`
+656	chemical_entity|chemical	`benzofuran`
+657	compound|isoferulic_acid	`isoferulic acid`
+658	chemical_entity|chemical	`hydroxycinnamoyl agmatines`
+659	protein|inward_rectifier_potassium_channel|protein_coding_gene|gene	`KCNJ10`
+660	disease	`osteosarcoma`
+661	disease|lung_carcinoma|lung_cancer	`non-small-cell lung carcinoma`
+662	disease|male_reproductive_organ_cancer|prostate_disease	`prostate cancer`
+663	disease	`gastrointestinal cancer`
+664	lymphocyte|cell_type|lymphoid_progenitor_cells	`thymocyte`
+665	protein|cyclophilin_type_peptidyl_prolyl_cis_trans_isomerase_domain,_protein_family|gene|cyclophilin|protein_coding_gene	`Ppib`
+666	chemical_entity|chemical	`cyclophilin a`
+667	chemical_entity|chemical	`cyclophilin b`
+668	disease	`hiv-1 (human immunodeficiency virus-1) entry`
+669	gene	`partook`
+670	protein	`nucleoprotein [SARS-Cov]`
+671	chemical_entity|chemical	`penicillin-streptomycin`
+672	compound	`UMP(2-)`
+673	compound	`cycloheximide`
+674	species	`chimpanzee`
+675	species	`rhesus monkey`
+676	species	`zebrafish`
+677	disease	`pancreatic adenocarcinoma`
+678	disease	`thymoma`
+679	disease	`adrenocortical carcinoma`
+680	disease	`esophageal carcinoma`
+681	protein|utp__glucose_1_phosphate_uridylyltransferase,_bacterial/archaeal_type|gene|nucleotidyl_transferase_domain,_protein_family|protein_coding_gene	`UTP-glucose-1-phosphate uridylyltransferase Atu4050`
+682	cellline	`pc3`
+683	protein|gene|arid_dna_binding_domain_superfamily	`Bap170`
+684	disease	`death`
+685	gene	`prad`
+686	gene	`kirp`
+687	disease	`tumor malignance`
+688	biological_pathway	`Osteoclast`
+689	protein|membrane_proteins	`Vascular endothelial growth factor A`
+690	gene	`bone morphogenetic protein-2`
+691	gene	`bmp-2`
+692	protein|protein_coding_gene|protein_tbata_like|gene	`Tbata`
+693	protein|histidinol_phosphate_phosphatase,_putative,_inositol_monophosphatase|protein_coding_gene|gene	`Phosphatase SMa0483`
+694	protein|death_like_domain_superfamily|gene|tumour_necrosis_factor_receptor_11b|protein_coding_gene	`Tnfrsf11b`
+695	disease	`bone fractures`
+696	disease	`periodontal infections`
+697	compound	`Iron(6+)`
+698	compound	`(1-fluorovinyl)lithium`
+699	compound	`(~51~Mn)Manganese`
+700	gene	`term`
+701	chemical_entity|chemical_entity_class	`copper(I) oxide`
+702	protein|asparagine_trna_ligase|gene|aminoacyl_trna_synthetases,_class_ii|protein_coding_gene|aminoacyl_trna_synthetase,_class_ii_(d/k/n),_protein_family	`AsnRS`
+703	gene	`raw`
+704	compound	`DAPI`
+705	chemical_entity|chemical	`phalloidin-488`
+706	protein|apoptotic_protease_activating_factor_1|death_like_domain_superfamily|wd40_repeat,_protein_family|gene|protein_coding_gene|card_domain,_protein_family|wd40_repeat_containing_domain_superfamily	`Dark`
+707	gene	`runx-2`
+708	compound|gene|chemical_entity|chemical_entity_class|chemical_element	`Au`
+709	compound	`tetracycline hydrochloride`
+710	chemical_entity|chemical	`calcein`
+711	chemical_entity|chemical	`(ca1-x srx)10(po4)6(oh)2`
+712	disease	`rabbit femoral condylar defect`
+713	protein|gene|immunoglobulin_like_domain_superfamily|protein_coding_gene|immunoglobulin_subtype,_protein_family	`CD86`
+714	chemical_entity|chemical	`phosphate`
+715	endothelial_cell|cell_type	`Endothelial cell (blood brain barrier)`
+716	compound|drug|essential_medicine|chemical_entity|chemical_entity_class|medication	`tetracycline`
+717	compound	`Light Green SF yellowish`
+718	disease	`rabbit femoral condyle defects`
+719	disease	`colon adenocarcinoma and rectum adenocarcinoma`
+720	biological_pathway|extracellular_matrix_organization	`Degradation of the extracellular matrix`
+721	disease	`metastasis of tumor`
+722	protein|pyrroline_5_carboxylate_reductase	`Pyrroline-5-carboxylate reductase CBU_2090`
+723	esophageal_cancer|disease	`esophageal carcinoma`
+724	adenocarcinoma|prostate_carcinoma|disease	`prostate adenocarcinoma`
+725	disease|uterine_corpus_cancer	`uterine corpus endometrial carcinoma`
+726	disease	`stomach adenocarcinoma`
+727	disease|renal_cell_carcinoma	`chromophobe renal cell carcinoma`
+728	thyroid_cancer|disease	`thyroid carcinoma`
+729	disease	`endometrial carcinoma`
+730	disease	`colon adenocarcinoma (coad) and rectum adenocarcinoma`
+731	colorectal_cancer|hereditary_neoplastic_syndromes|syndrome|autosomal_dominant_disease|disease	`Lynch syndrome`
+732	disease	`a cancer`
+733	cell_type|granulocyte|neutrophil	`neutrophil`
+734	differentiated_hemal_cell|dendritic_cell|cell_type|antigen_presenting_cell|white_blood_cell	`dendritic cell`
+735	protein_coding_gene|gene	`CD4`
+736	protein_coding_gene|gene	`CD8A`
+737	chemical_entity|chemical	`kpt-8602`
+738	chemical_entity|chemical	`brigatinib`
+739	physiological_condition	`health problem`
+740	disease	`coad`
+741	disease	`mortality`
+742	cellline	`mutz-3`
+743	cellline	`nb4`
+744	chemical_entity|chemical	`methanol`
+745	gene	`crp`
+746	protein|lactate/malate_dehydrogenase,_c_terminal_domain,_protein_family|l_lactate_dehydrogenase|lactate_dehydrogenase/glycoside_hydrolase,_family_4,_c_terminal|lactate/malate_dehydrogenase,_n_terminal_domain,_protein_family|gene|membrane_proteins|protein_coding_gene	`LDHA`
+747	protein|protein_coding_gene|gene	`PR/SET domain 6`
+748	disease	`bone marrow blasts`
+749	differentiated_hemal_cell|blood_cell|cell_type	`white blood cell`
+750	gene_variant|mutation	`rs8259`
+751	disease	`myeloblastic leukaemia`
+752	disease	`tumours`
+753	lymphoblastic_leukemia|acute_leukemia|disease	`acute lymphocytic leukemia`
+754	disease	`anaemia`
+755	artery_disease|disease|cardiovascular_disease	`coronary artery disease`
+756	disease	`silencer`
+757	protein|protein_coding_gene|gene|protein_of_unknown_function_duf4712	`C3orf62`
+758	disease	`cardiovascular events`
+759	disease	`chronic kidney disease`
+760	protein|ve_cadherin|gene|membrane_proteins|protein_coding_gene	`Cdh5`
+761	compound	`visual pigment`
+762	protein_coding_gene|gene	`Emb`
+763	protein|basigin_like|neuroplastin|immunoglobulin_like_domain_superfamily|protein_family|immunoglobulin_subtype_2,_protein_family|membrane_proteins|immunoglobulin_subtype,_protein_family	`Neuroplastin`
+764	biological_pathway|degradation_of_the_extracellular_matrix	`Activation of Matrix Metalloproteinases`
+765	cell_type|cell	`thymic epithelial cell`
+766	cell_type|myocyte|precursor_cell	`myoblast`
+767	compound	`alpha-ketoglutarate`
+768	protein|pyridoxal_phosphate_dependent_transferase_domain_1|enzyme|gene|pyridoxal_phosphate_dependent_transferase,_major_domain|protein_coding_gene	`alanine transaminase`
+769	protein|pyridoxal_phosphate_dependent_transferase_domain_1|enzyme|pyridoxal_phosphate_dependent_transferase,_major_domain|protein_coding_gene	`alanine aminotransferase`
+770	compound	`alpha-ketoglutaric acid`
+771	protein|group_or_class_of_enzymes|amidohydrolases|enzyme|gene|ankyrin_repeat_containing_domain,_protein_family|glutaminase	`Glutaminase`
+772	chemical_entity|chemical	`epigallocatechin 3-gallate`
+773	chemical_entity|chemical	`glucogenic amino acids`
+774	compound	`(4-coumaroyl)acetyl-CoA`
+775	disease	`fatty liver`
+776	gene_variant|mutation	`6h`
+777	disease	`impaired glucose homeostasis`
+778	biological_pathway	`Glucose homeostasis`
+779	compound	`aspartate(2-)`
+780	chemical_entity|chemical	`mpc`
+781	cell_type|endo_epithelial_cell|cell	`hepatocyte`
+782	chemical_entity|chemical	`phosphate-buffered saline`
+783	chemical_entity|chemical	`ripa buffer`
+784	protein|gene|alpha/beta_hydrolase_fold|carboxylesterase_type_b	`Nrt`
+785	protein|protein_coding_gene|gene|muscarinic_acetylcholine_receptor_m3	`CHRM3`
+786	chemical_entity|chemical	`alcohol`
+787	compound|chemical_entity|chemical_entity_class|essential_medicine	`D-(-)-mannitol`
+788	protein	`Sodium`
+789	chemical_entity|chemical	`sodium octanoate`
+790	compound	`O-octanoyl-L-carnitine (charged form)`
+791	compound	`Nonidet P-40`
+792	protein|protein_coding_gene|gene	`SLC35G1`
+793	species	`ocimum basilicum l`
+794	compound	`allyl isothiocyanate`
+795	disease	`joint diseases`
+796	musculoskeletal_system_symptom|symptom|arthropathy|disease|bone_inflammation_disease	`arthritis`
+797	disease	`rheumatism`
+798	disease	`skin diseases`
+799	disease	`vitiligo-associated multiple autoimmune disease susceptibility 1`
+800	disease	`eczema`
+801	gene	`extended`
+802	general_symptom|symptom	`swelling`
+803	protein|gene|uvrd_like_dna_helicase,_c_terminal_domain,_protein_family|protein_coding_gene|dna_helicase,_uvrd/rep_type	`DNA helicase IV ECIAI39_2184`
+804	protein|cytochrome_c_assembly_protein_family	`Hypothetical protein YPO3297`
+805	disease	`diabetes`
+806	chemical_entity|chemical	`bile acid`
+807	protein|protein_tyrosine_phosphatase,_non_receptor_type_1/2|ptp_type_protein_phosphatase_domain,_protein_family|membrane_proteins|tyrosine_specific_protein_phosphatases_domain,_protein_family	`Protein tyrosine phosphatase, non-receptor type 1`
+808	chemical_entity|chemical	`tyrosine`
+809	protein|glycoside_hydrolase_superfamily|glycosyl_hydrolase,_family_13,_catalytic_domain,_protein_family|gene|alpha_amylase,_subgroup|protein_coding_gene	`Alpha-amylase`
+810	protein_coding_gene|gene	`peroxidase (Npx) LBA1401`
+811	chemical_entity|chemical	`glycerol`
+812	species	`Trigonella foenum-graecum`
+813	species	`potato`
+814	protein|protein_coding_gene|gene	`Spalt-like transcription factor 3`
+815	chemical_entity|chemical	`carbohydrate`
+816	species	`human gut microbiota`
+817	protein|glycoside_hydrolase,_family_2|glycoside_hydrolase_superfamily|glycosyl_hydrolases_family_2,_sugar_binding_domain,_protein_family|glycoside_hydrolase_family_2,_catalytic_domain,_protein_family|gene|glycoside_hydrolase,_family_2,_immunoglobulin_like_beta_sandwich,_protein_family|membrane_proteins|protein_coding_gene	`Gusb`
+818	species	`Bifidobacterium animalis subsp. lactis`
+819	compound	`(~15~N)Ammonia`
+820	chemical_entity|chemical	`methionine`
+821	disease	`sarcopenia`
+822	chemical_entity|chemical	`lu`
+823	chemical_entity|chemical	`flavonoids`
+824	chemical_entity|chemical	`coumaroyl hydroxyagmatine`
+825	chemical_entity|chemical	`coumaroyl`
+826	chemical_entity|chemical	`feruloyl`
+827	chemical_entity|chemical	`trifa`
+828	compound	`9,10,13-TriHOME`
+829	chemical_entity|chemical	`ethyl acetate`
