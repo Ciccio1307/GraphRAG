@@ -5,9 +5,10 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate,MessagesPlaceholder,ChatPromptTemplate
 labels = ["biological_pathway", "cell", "cell_line", "cell_type", "chemical_entity", "compound", "disease", "drug", "enzyme", "gene", "gene_variant", "protein", "species", "symptom", "tissue","REL"]
 
-
 GRAPHRAG_QA_MODEL = os.getenv("GRAPHRAG_QA_MODEL")
 GRAPHRAG_CYPHER_MODEL = os.getenv("GRAPHRAG_CYPHER_MODEL")
+from dotenv import load_dotenv
+load_dotenv('.env')
 
 graph = Neo4jGraph(
     url=os.getenv("NEO4J_URI"),
