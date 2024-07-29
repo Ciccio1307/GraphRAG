@@ -29,6 +29,6 @@ In summary, LLMs are powerful tools for natural language processing, capable of 
 
 --- 
 
-![solution.png](data/solution.PNG)
+![solution.png](solution.JPG)
 
 Let me know if you need further assistance!
