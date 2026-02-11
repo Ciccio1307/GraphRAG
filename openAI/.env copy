@@ -1,11 +1,10 @@
-GOOGLE_API_KEY=AI-yourkey
-GEMINI_API_KEY=AI-yourkey
+OPENAI_API_KEY = "sk-yourkey"
 NEO4J_URI = "your Neo4j URI"
 NEO4J_USER = "youe Neo4j user"
 NEO4J_PASSWORD ="your Neo4j password"
 NODES_CSV_PATH = "https://github.com/Ciccio1307/GraphRAG/blob/main/data/nodes.csv"
 EDGES_CSV_PATH = "https://github.com/Ciccio1307/GraphRAG/blob/main/data/edges.csv"
 
-GRAPHRAG_QA_MODEL=models/gemini-2.5-flash-lite
-GRAPHRAG_CYPHER_MODEL=models/gemini-2.5-flash-lite
-GRAPHRAG_AGENT_MODEL=models/gemini-2.5-flash-lite
+GRAPHRAG_AGENT_MODEL=gpt-3.5-turbo-1106
+GRAPHRAG_CYPHER_MODEL=gpt-3.5-turbo-1106
+GRAPHRAG_QA_MODEL=gpt-3.5-turbo-0125
