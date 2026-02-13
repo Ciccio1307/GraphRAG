@@ -98,12 +98,6 @@ GRAPHRAG_QA_MODEL=models/gemini-2.5-flash
 GRAPHRAG_CYPHER_MODEL=models/gemini-2.5-flash
 
 
-### 5 (Optional) Populate the Database
-```bash
-
-python src/setup_db.py
-
-```
 
 ### ▶️ Running the Application
 ```bash
