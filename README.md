@@ -64,8 +64,8 @@ This architecture enables precise, explainable, and relationship-aware answers t
 ### 1 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Ciccio1307/GraphRAG.git
+cd GraphRAG
 ```
 ### 2 Create a Virtual Environment
 ```bash
@@ -83,21 +83,23 @@ pip install -r requirements.txt
 
 ```
 
-### 4 Configure Environment Variables
-Create a .env file in the project root:
-# Google Gemini API Key
-GOOGLE_API_KEY=your_google_api_key_here
+### 4 Setup Environment Variables
 
-# Neo4j Database Credentials
-NEO4J_URI=bolt://localhost:7687
-NEO4J_USER=neo4j
-NEO4J_PASSWORD=your_password_here
+Copy the example file and fill in your credentials:
 
-# Model configuration
-GRAPHRAG_QA_MODEL=models/gemini-2.5-flash
-GRAPHRAG_CYPHER_MODEL=models/gemini-2.5-flash
+```bash
+cp .env.example .env
+```
 
+Then open `.env` and replace the placeholder values with your real credentials:
 
+| Variable | Where to get it |
+|---|---|
+| `GOOGLE_API_KEY` / `GEMINI_API_KEY` | [Google AI Studio](https://aistudio.google.com/app/apikey) |
+| `NEO4J_URI` / `NEO4J_USER` / `NEO4J_PASSWORD` | Your local Neo4j instance or [AuraDB](https://neo4j.com/cloud/platform/aura-graph-database/) |
+| `GRAPHRAG_*_MODEL` | Leave as-is or swap for another Gemini model |
+
+> **Never commit your `.env` file.** It is listed in `.gitignore` and should stay local only.
 
 ### ▶️ Running the Application
 ```bash
