@@ -40,3 +40,9 @@ ENV/
 *.log
 *.tmp
 *.bak
+
+# Test artefacts
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/

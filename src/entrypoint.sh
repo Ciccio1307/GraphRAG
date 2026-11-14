@@ -1,7 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")"
 
-# Run any setup steps or pre-processing tasks here
-echo "Starting graphrag CHATBOT"
-
-# Run the ETL script
-streamlit run main.py
+echo "Starting GraphRAG chatbot"
+exec streamlit run main.py "$@"

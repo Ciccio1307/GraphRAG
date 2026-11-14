@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="t d">
+<title id="t">GraphRAG</title><desc id="d">GraphRAG logo: a DNA double helix whose base pairs form a knowledge graph, with the GraphRAG wordmark in blue on black.</desc>
+<defs>
+  <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#3B82F6"/><stop offset="0.55" stop-color="#1D9BF0"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="strandA" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+  </linearGradient>
+  <linearGradient id="strandB" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="960" height="320" fill="#000000"/>
+<g stroke="#1E3A8A" stroke-width="2">
+<line x1="189.9" y1="48.0" x2="150.1" y2="48.0" stroke-opacity="0.83"/>
+<line x1="226.4" y1="76.0" x2="113.6" y2="76.0" stroke-opacity="0.54"/>
+<line x1="212.7" y1="104.0" x2="127.3" y2="104.0" stroke-opacity="0.72"/>
+<line x1="161.1" y1="132.0" x2="178.9" y2="132.0" stroke-opacity="0.85"/>
+<line x1="117.4" y1="160.0" x2="222.6" y2="160.0" stroke-opacity="0.62"/>
+<line x1="120.4" y1="188.0" x2="219.6" y2="188.0" stroke-opacity="0.66"/>
+<line x1="167.5" y1="216.0" x2="172.5" y2="216.0" stroke-opacity="0.85"/>
+<line x1="216.8" y1="244.0" x2="123.2" y2="244.0" stroke-opacity="0.69"/>
+<line x1="224.5" y1="272.0" x2="115.5" y2="272.0" stroke-opacity="0.59"/>
+</g>
+<g stroke="#2563EB" stroke-width="1.4" stroke-dasharray="3 4" stroke-opacity="0.7">
+<line x1="189.9" y1="48.0" x2="127.3" y2="104.0"/>
+<line x1="226.4" y1="76.0" x2="178.9" y2="132.0"/>
+<line x1="212.7" y1="104.0" x2="222.6" y2="160.0"/>
+<line x1="161.1" y1="132.0" x2="219.6" y2="188.0"/>
+<line x1="117.4" y1="160.0" x2="172.5" y2="216.0"/>
+<line x1="120.4" y1="188.0" x2="123.2" y2="244.0"/>
+<line x1="167.5" y1="216.0" x2="115.5" y2="272.0"/>
+</g>
+<path d="M189.9,48.0 L193.4,49.9 L196.8,51.7 L200.1,53.6 L203.3,55.5 L206.3,57.3 L209.2,59.2 L211.9,61.1 L214.5,62.9 L216.8,64.8 L218.9,66.7 L220.9,68.5 L222.6,70.4 L224.1,72.3 L225.3,74.1 L226.4,76.0 L227.1,77.9 L227.7,79.7 L227.9,81.6 L228.0,83.5 L227.8,85.3 L227.3,87.2 L226.6,89.1 L225.7,90.9 L224.5,92.8 L223.1,94.7 L221.4,96.5 L219.6,98.4 L217.5,100.3 L215.2,102.1 L212.7,104.0 L210.1,105.9 L207.2,107.7 L204.3,109.6 L201.1,111.5 L197.8,113.3 L194.5,115.2 L191.0,117.1 L187.4,118.9 L183.7,120.8 L180.0,122.7 L176.3,124.5 L172.5,126.4 L168.7,128.3 L164.9,130.1 L161.1,132.0 L157.4,133.9 L153.7,135.7 L150.1,137.6 L146.6,139.5 L143.2,141.3 L139.9,143.2 L136.7,145.1 L133.7,146.9 L130.8,148.8 L128.1,150.7 L125.5,152.5 L123.2,154.4 L121.1,156.3 L119.1,158.1 L117.4,160.0 L115.9,161.9 L114.7,163.7 L113.6,165.6 L112.9,167.5 L112.3,169.3 L112.1,171.2 L112.0,173.1 L112.2,174.9 L112.7,176.8 L113.4,178.7 L114.3,180.5 L115.5,182.4 L116.9,184.3 L118.6,186.1 L120.4,188.0 L122.5,189.9 L124.8,191.7 L127.3,193.6 L129.9,195.5 L132.8,197.3 L135.7,199.2 L138.9,201.1 L142.2,202.9 L145.5,204.8 L149.0,206.7 L152.6,208.5 L156.3,210.4 L160.0,212.3 L163.7,214.1 L167.5,216.0 L171.3,217.9 L175.1,219.7 L178.9,221.6 L182.6,223.5 L186.3,225.3 L189.9,227.2 L193.4,229.1 L196.8,230.9 L200.1,232.8 L203.3,234.7 L206.3,236.5 L209.2,238.4 L211.9,240.3 L214.5,242.1 L216.8,244.0 L218.9,245.9 L220.9,247.7 L222.6,249.6 L224.1,251.5 L225.3,253.3 L226.4,255.2 L227.1,257.1 L227.7,258.9 L227.9,260.8 L228.0,262.7 L227.8,264.5 L227.3,266.4 L226.6,268.3 L225.7,270.1 L224.5,272.0" fill="none" stroke="url(#strandA)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+<path d="M150.1,48.0 L146.6,49.9 L143.2,51.7 L139.9,53.6 L136.7,55.5 L133.7,57.3 L130.8,59.2 L128.1,61.1 L125.5,62.9 L123.2,64.8 L121.1,66.7 L119.1,68.5 L117.4,70.4 L115.9,72.3 L114.7,74.1 L113.6,76.0 L112.9,77.9 L112.3,79.7 L112.1,81.6 L112.0,83.5 L112.2,85.3 L112.7,87.2 L113.4,89.1 L114.3,90.9 L115.5,92.8 L116.9,94.7 L118.6,96.5 L120.4,98.4 L122.5,100.3 L124.8,102.1 L127.3,104.0 L129.9,105.9 L132.8,107.7 L135.7,109.6 L138.9,111.5 L142.2,113.3 L145.5,115.2 L149.0,117.1 L152.6,118.9 L156.3,120.8 L160.0,122.7 L163.7,124.5 L167.5,126.4 L171.3,128.3 L175.1,130.1 L178.9,132.0 L182.6,133.9 L186.3,135.7 L189.9,137.6 L193.4,139.5 L196.8,141.3 L200.1,143.2 L203.3,145.1 L206.3,146.9 L209.2,148.8 L211.9,150.7 L214.5,152.5 L216.8,154.4 L218.9,156.3 L220.9,158.1 L222.6,160.0 L224.1,161.9 L225.3,163.7 L226.4,165.6 L227.1,167.5 L227.7,169.3 L227.9,171.2 L228.0,173.1 L227.8,174.9 L227.3,176.8 L226.6,178.7 L225.7,180.5 L224.5,182.4 L223.1,184.3 L221.4,186.1 L219.6,188.0 L217.5,189.9 L215.2,191.7 L212.7,193.6 L210.1,195.5 L207.2,197.3 L204.3,199.2 L201.1,201.1 L197.8,202.9 L194.5,204.8 L191.0,206.7 L187.4,208.5 L183.7,210.4 L180.0,212.3 L176.3,214.1 L172.5,216.0 L168.7,217.9 L164.9,219.7 L161.1,221.6 L157.4,223.5 L153.7,225.3 L150.1,227.2 L146.6,229.1 L143.2,230.9 L139.9,232.8 L136.7,234.7 L133.7,236.5 L130.8,238.4 L128.1,240.3 L125.5,242.1 L123.2,244.0 L121.1,245.9 L119.1,247.7 L117.4,249.6 L115.9,251.5 L114.7,253.3 L113.6,255.2 L112.9,257.1 L112.3,258.9 L112.1,260.8 L112.0,262.7 L112.2,264.5 L112.7,266.4 L113.4,268.3 L114.3,270.1 L115.5,272.0" fill="none" stroke="url(#strandB)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+<circle cx="189.9" cy="48.0" r="8.8" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="189.9" cy="48.0" r="3.7" fill="#22D3EE"/>
+<circle cx="150.1" cy="48.0" r="8.8" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="150.1" cy="48.0" r="3.7" fill="#3B82F6"/>
+<circle cx="226.4" cy="76.0" r="7.1" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="226.4" cy="76.0" r="3.0" fill="#22D3EE"/>
+<circle cx="113.6" cy="76.0" r="7.1" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="113.6" cy="76.0" r="3.0" fill="#3B82F6"/>
+<circle cx="212.7" cy="104.0" r="8.2" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="212.7" cy="104.0" r="3.4" fill="#22D3EE"/>
+<circle cx="127.3" cy="104.0" r="8.2" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="127.3" cy="104.0" r="3.4" fill="#3B82F6"/>
+<circle cx="161.1" cy="132.0" r="9.0" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="161.1" cy="132.0" r="3.8" fill="#22D3EE"/>
+<circle cx="178.9" cy="132.0" r="9.0" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="178.9" cy="132.0" r="3.8" fill="#3B82F6"/>
+<circle cx="117.4" cy="160.0" r="10.6" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="117.4" cy="160.0" r="4.4" fill="#22D3EE"/>
+<circle cx="222.6" cy="160.0" r="10.6" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="222.6" cy="160.0" r="4.4" fill="#3B82F6"/>
+<circle cx="120.4" cy="188.0" r="7.8" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="120.4" cy="188.0" r="3.3" fill="#22D3EE"/>
+<circle cx="219.6" cy="188.0" r="7.8" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="219.6" cy="188.0" r="3.3" fill="#3B82F6"/>
+<circle cx="167.5" cy="216.0" r="9.0" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="167.5" cy="216.0" r="3.8" fill="#22D3EE"/>
+<circle cx="172.5" cy="216.0" r="9.0" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="172.5" cy="216.0" r="3.8" fill="#3B82F6"/>
+<circle cx="216.8" cy="244.0" r="8.0" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="216.8" cy="244.0" r="3.4" fill="#22D3EE"/>
+<circle cx="123.2" cy="244.0" r="8.0" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="123.2" cy="244.0" r="3.4" fill="#3B82F6"/>
+<circle cx="224.5" cy="272.0" r="7.4" fill="#000" stroke="#22D3EE" stroke-width="3" filter="url(#glow)"/>
+<circle cx="224.5" cy="272.0" r="3.1" fill="#22D3EE"/>
+<circle cx="115.5" cy="272.0" r="7.4" fill="#000" stroke="#3B82F6" stroke-width="3" filter="url(#glow)"/>
+<circle cx="115.5" cy="272.0" r="3.1" fill="#3B82F6"/>
+<text x="300" y="172" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="104" font-weight="800" letter-spacing="-2" fill="url(#word)" filter="url(#glow)" textLength="560" lengthAdjust="spacingAndGlyphs">Graph<tspan fill="#60A5FA" font-weight="300">RAG</tspan></text>
+<rect x="304" y="196" width="560" height="2" fill="#1E3A8A"/>
+<text x="304" y="234" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="5.5" fill="#3B82F6" textLength="560" lengthAdjust="spacing">MEDICAL KNOWLEDGE GRAPH</text>
+<text x="304" y="266" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="500" letter-spacing="3.2" fill="#1D4ED8">NEO4J · LANGCHAIN · GEMINI</text>
+</svg>

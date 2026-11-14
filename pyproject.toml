@@ -1,0 +1,21 @@
+[project]
+name = "graphrag-medical-chatbot"
+version = "2.0.0"
+description = "Graph-based RAG over a Neo4j biomedical knowledge graph with Gemini"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "openAI"]
+addopts = "-ra --strict-markers"
+markers = [
+    "neo4j: integration tests that need a real Neo4j (Docker or NEO4J_TEST_URI)",
+]
+filterwarnings = [
+    "error::pytest.PytestUnraisableExceptionWarning",
+    "ignore:.*langchain-community.*is being sunset.*:DeprecationWarning",
+]
+
+[tool.coverage.run]
+source = ["src/graphrag"]
+branch = true

@@ -1,0 +1,10 @@
+# Runtime
+streamlit>=1.40,<2
+langchain-core>=1.0,<2
+langchain-community>=0.4,<0.5
+langchain-neo4j>=0.6,<1
+langchain-google-genai>=4.0,<5
+neo4j>=5.20,<7
+python-dotenv>=1.0,<2
+ddgs>=9.0
+duckduckgo-search>=8.0

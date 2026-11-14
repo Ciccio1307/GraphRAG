@@ -1,5 +1,23 @@
+import logging
+import uuid
+
 import streamlit as st
-from graph_rag_agent import agent_with_chat_history
+
+from graph_rag_agent import get_agent_bundle
+from graphrag.config import ConfigError
+from graphrag.sanitize import sanitize_markdown_output
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
+logger = logging.getLogger("graphrag.ui")
+
+FALLBACK_ANSWER = "I couldn't generate an answer from the graph."
+MAX_INPUT_CHARS = 2000
+
+
+@st.cache_resource(show_spinner="Connecting to the knowledge graph...")
+def load_agent():
+    return get_agent_bundle().agent
+
 
 # =========================================================
 # Sidebar
@@ -35,14 +53,14 @@ st.info(
 )
 
 # =========================================================
-# Session state for chat messages
+# Session state: messages + a per-browser-session id, so chat
+# memory is never shared between different users.
 # =========================================================
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "session_id" not in st.session_state:
+    st.session_state.session_id = uuid.uuid4().hex
 
-# =========================================================
-# Display previous messages
-# =========================================================
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
@@ -50,24 +68,29 @@ for message in st.session_state.messages:
 # =========================================================
 # Chat input
 # =========================================================
-if prompt := st.chat_input("What do you want to know?"):
+if prompt := st.chat_input("What do you want to know?", max_chars=MAX_INPUT_CHARS):
 
-    st.chat_message("user").markdown(prompt)
+    st.chat_message("user").markdown(sanitize_markdown_output(prompt))
     st.session_state.messages.append(
-        {"role": "user", "content": prompt}
+        {"role": "user", "content": sanitize_markdown_output(prompt)}
     )
 
     with st.spinner("Querying the knowledge graph..."):
-        response = agent_with_chat_history.invoke(
-            {"input": prompt},
-            config={"configurable": {"session_id": "streamlit-session"}}
-        )
+        try:
+            agent = load_agent()
+            response = agent.invoke(
+                {"input": prompt},
+                config={"configurable": {"session_id": st.session_state.session_id}},
+            )
+            output = response.get("output") or FALLBACK_ANSWER
+        except ConfigError as exc:
+            logger.error("Configuration error: %s", exc)
+            output = "The service is not configured correctly. Please contact the administrator."
+        except Exception:
+            logger.exception("Agent invocation failed")
+            output = "An unexpected error occurred. Please try again later."
 
-        output = response.get(
-            "output",
-            "I couldn't generate an answer from the graph."
-        )
-
+    output = sanitize_markdown_output(output)
     with st.chat_message("assistant"):
         st.markdown(output)
 

@@ -1,77 +1,74 @@
+"""Legacy OpenAI functions-agent variant (kept for reference).
+
+Changes from the original:
+* imports the OpenAI chain module (it previously imported the Gemini one);
+* the agent prompt is defined locally instead of ``hub.pull(...)``, which
+  downloaded an unpinned prompt from a remote hub at import time;
+* the session store is bounded and thread-safe;
+* everything is built lazily.
+
+Requires ``pip install langchain-openai langchain-classic``.
+"""
+
+from __future__ import annotations
+
 import os
+import threading
+from typing import Any
+
 from dotenv import load_dotenv
-
-from langchain_openai import ChatOpenAI
-from langchain.agents import(
-    create_openai_functions_agent,
-    Tool,
-    AgentExecutor,
-)
-
-from langchain import hub
-from graphRag_cypher_chain_cd import graph_cypher_chain
-
-from langchain_core.messages import AIMessage, HumanMessage
-from langchain_community.chat_message_histories import ChatMessageHistory
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_core.chat_history import BaseChatMessageHistory
-from langchain_core.prompts import ChatMessagePromptTemplate, MessagesPlaceholder
-load_dotenv()
 
-GRAPHRAG_AGENT_MODEL = os.getenv("GRAPHRAG_AGENT_MODEL")
+from graphRag_cypher_chain_cd_openAI import get_graph_cypher_chain, openai_llm_factory
+from graphrag.memory import SessionHistoryStore
 
-graphRag_agent_prompt = hub.pull("hwchase17/openai-functions-agent")
-tools = [
-   # Tool(                                                                  ########(was removed, use only Graph tool)
-      #  name="Retriever",
-      #  func=reviews_vector_chain.invoke,
-      #  description="""Useful when need to know something about BSG disease , all nodes and 
-     #   his edges.
-      #  """,
-   # )
-    #,
-   Tool(
-    name="Graph",
-    func=graph_cypher_chain.invoke,
-    description="""Useful for answering questions about a Neo4j graph. 
-    It converts natural language questions into Cypher queries, the query language of Neo4j. 
-    It can answer questions about nodes, relationships, types, labels, and words in the graph. 
-    Use the entire prompt as input to the tool. This specialized tool offers streamlined search capabilities
-    to help you find the movie information you need with ease. Input should be full question
-    """,
-   )
-
-]
-
-chat_model = ChatOpenAI(
-    model=GRAPHRAG_AGENT_MODEL,
-    temperature=0,
-)
-message_history = ChatMessageHistory()
-
-graphRag_agent_prompt = create_openai_functions_agent(
-    llm=chat_model,
-    prompt=graphRag_agent_prompt,
-    tools=tools,
-)
-graphRag_agent_executor = AgentExecutor(
-    agent=graphRag_agent_prompt,
-    tools=tools,
-    return_intermediate_steps=True,
-    verbose=True,
+AGENT_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        ("system", "You are a helpful assistant."),
+        MessagesPlaceholder("chat_history", optional=True),
+        ("human", "{input}"),
+        MessagesPlaceholder("agent_scratchpad"),
+    ]
 )
 
-store ={}
-def get_session_history(session_id : str) ->BaseChatMessageHistory:
-    if session_id not in store:
-        store[session_id] = ChatMessageHistory()
-    return store[session_id]
-
-agent_with_chat_history = RunnableWithMessageHistory(
-    graphRag_agent_executor,
-    get_session_history,
-    input_messages_key="input",
-    history_messages_key="chat_history",
-)
+_lock = threading.Lock()
+_agent = None
+store = SessionHistoryStore()
 
 
+def get_agent_with_chat_history():
+    global _agent
+    with _lock:
+        if _agent is None:
+            from langchain_classic.agents import AgentExecutor, Tool, create_openai_functions_agent
+
+            load_dotenv()
+            graph_chain = get_graph_cypher_chain()
+            tools = [
+                Tool(
+                    name="Graph",
+                    func=lambda q: graph_chain.invoke(q)["result"],
+                    description=(
+                        "Useful for answering questions about a Neo4j biomedical graph "
+                        "(genes, diseases, proteins, drugs). Input should be the full question."
+                    ),
+                )
+            ]
+            chat_model = openai_llm_factory(os.getenv("GRAPHRAG_AGENT_MODEL", "gpt-4o-mini"))
+            agent = create_openai_functions_agent(llm=chat_model, prompt=AGENT_PROMPT, tools=tools)
+            executor = AgentExecutor(agent=agent, tools=tools, return_intermediate_steps=True)
+            _agent = RunnableWithMessageHistory(
+                executor,
+                store,
+                input_messages_key="input",
+                history_messages_key="chat_history",
+                output_messages_key="output",
+            )
+        return _agent
+
+
+def __getattr__(name: str) -> Any:
+    if name == "agent_with_chat_history":
+        return get_agent_with_chat_history()
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
